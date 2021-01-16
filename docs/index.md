@@ -50,7 +50,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## PUBLICATIONS
-### Peer-reviewed articles
+## Peer-reviewed articles
 1. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
 
 2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under consideration). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
