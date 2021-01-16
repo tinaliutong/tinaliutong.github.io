@@ -2,8 +2,8 @@
 # Tong (Tina) Liu
 ### BSocSc (First Class Honors), MPhil, PhD
 
-##### [Link to Google Scholar profile](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
-##### [Link to ORCID page](https://orcid.org/0000-0003-0316-5356).
+#### [Link to Google Scholar profile](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
+#### [Link to ORCID page](https://orcid.org/0000-0003-0316-5356).
 
 
 
@@ -40,13 +40,13 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 			MPhil in Psychology: Visual Cognition 
 			Advisor: Dr. William Hayward 
 
-2008.9 – 2011.5		University of Hong Kong – Hong Kong, China 
-			Bachelor of Social Sciences (First Class Honors) 
-			Major in Psychology, Minor in Politics and Public Administration 
-
 2010.1 – 2010.5 	University of Illinois at Urbana-Champaign – IL, USA 
 			Student Exchange Program 
 			GPA: 4.0/4.0 
+			
+2008.9 – 2011.5		University of Hong Kong – Hong Kong, China 
+			Bachelor of Social Sciences (First Class Honors) 
+			Major in Psychology, Minor in Politics and Public Administration 
 ```
 
 
