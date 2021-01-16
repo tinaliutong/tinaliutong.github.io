@@ -4,16 +4,39 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 
 
 ### CV
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
 # EMPLOYMENT
 2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
-			            Visiting fellow/Postdoc researcher
-Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
+			Visiting fellow/Postdoc researcher
+			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
+			
+# EDUCATION & TRAINING
+Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) 
+			- Minneapolis, MN
+			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
+
+2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
+			Ph.D. in Psychology: Cognitive Neuroscience 
+			Advisor: Dr. Marlene Behrmann
+			Committee: Drs. Michael Tarr, David Plaut, & Carl Olson
+
+Summer 2015		Kavli Summer Institute in Cognitive Neuroscience - Santa Barbara, CA, USA
+			Coordinators: Drs. Brian Wandell & Susan Bookheimer
+
+Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, USA
+			Coordinators: Drs. Tomaso Poggio & L. Mahadevan 
+
+2011.9 – 2013.8 	University of Hong Kong – Hong Kong, China 
+			MPhil in Psychology: Visual Cognition 
+			Advisor: Dr. William Hayward 
+
+2008.9 – 2011.5		University of Hong Kong – Hong Kong, China 
+			Bachelor of Social Sciences (First Class Honors) 
+			Major in Psychology, Minor in Politics and Public Administration 
+
+2010.1 – 2010.5 	University of Illinois at Urbana-Champaign – IL, USA 
+			Student Exchange Program 
+			GPA: 4.0/4.0
 
 
 ## Header 2
