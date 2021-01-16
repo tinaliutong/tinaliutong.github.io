@@ -1,4 +1,5 @@
-<img src="https://github.com/tinaliutong/tinaliutong.github.io/tree/master/docs/headshot2_square.jpg" alt="hi" class="inline"/>
+<img src="https://github.com/tinaliutong/tinaliutong.github.io/blob/master/docs/headshot2_square.jpg"  
+class="inline"/>
 
 # Tong (Tina) Liu
 ### BSocSc (First Class Honors), MPhil, PhD
