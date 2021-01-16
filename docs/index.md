@@ -3,19 +3,17 @@
 I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD under Marlene Behrmann at Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
 
-# CV
-
+# EMPLOYMENT
 ```
-EMPLOYMENT
 2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
 			Visiting fellow/Postdoc researcher
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
 			
-## EDUCATION & TRAINING
-Summer 2018		
-Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN
-Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
+# EDUCATION & TRAINING
+```
+Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN
+			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
 
 2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
 			Ph.D. in Psychology: Cognitive Neuroscience 
@@ -38,8 +36,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2010.1 – 2010.5 	University of Illinois at Urbana-Champaign – IL, USA 
 			Student Exchange Program 
-			GPA: 4.0/4.0
- 
+			GPA: 4.0/4.0 
+```
+
 
 ## PUBLICATIONS
 ### Peer-reviewed articles
