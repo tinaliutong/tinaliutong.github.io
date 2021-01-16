@@ -1,9 +1,10 @@
-## BIOGRAPHICAL SKETCH
+# BIOGRAPHICAL SKETCH
 
 I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD under Marlene Behrmann at Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
 
-### CV
+# CV
+```
 ## EMPLOYMENT
 2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
 			Visiting fellow/Postdoc researcher
@@ -36,6 +37,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 2010.1 – 2010.5 	University of Illinois at Urbana-Champaign – IL, USA 
 			Student Exchange Program 
 			GPA: 4.0/4.0
+ 
 
 ## PUBLICATIONS
 ### Peer-reviewed articles
@@ -65,7 +67,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ### Invited Talks
 Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
+
 Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
+
 Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institutes of Mental Health, National Institutes of Health, Bethesda, MD.
 
 Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
