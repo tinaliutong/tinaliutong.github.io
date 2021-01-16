@@ -9,7 +9,8 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 			Visiting fellow/Postdoc researcher
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
-			
+		
+		
 ## EDUCATION & TRAINING
 ```
 Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN, USA
@@ -38,6 +39,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 			Student Exchange Program 
 			GPA: 4.0/4.0 
 ```
+
 
 ## PUBLICATIONS
 ### Peer-reviewed articles
@@ -133,7 +135,9 @@ https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-re
 
 7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception
 
+
 ## HONORS, AWARDS & FELOWSHIPS
+```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
@@ -158,13 +162,14 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 
 2011 – 2013 	Postgraduate Scholarships, University of Hong Kong  
 
-2011	BSocSc awarded with First Class Honors, University of Hong Kong
+2011		BSocSc awarded with First Class Honors, University of Hong Kong
 
-2010	Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
+2010		Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
 
-2009	Serena Yang Award for Social Innovation, University of Hong Kong
+2009		Serena Yang Award for Social Innovation, University of Hong Kong
 
-2009 – 2011	      Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
+2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
+```
 
 
 ## TEACHING EXPERIENCE AND CERTIFICATES
@@ -191,8 +196,10 @@ Fall 2011	Foundations of Cognitive Science (HKU)
 		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
 ```
 
+
 ## Professional Affiliations 					
 Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping
+
 
 ## Ad Hoc Reviewer
 Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann in 2019), Neuropsychologia, Visual Cognition
