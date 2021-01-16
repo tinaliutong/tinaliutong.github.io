@@ -1,3 +1,6 @@
+# Tong (Tina) Liu, BSocSc (First Class Honors), MPhil, PhD
+[Link to Google Scholar profile](./https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
+
 ## BIOGRAPHICAL SKETCH
 
 I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD from Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
