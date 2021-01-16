@@ -1,3 +1,5 @@
+<img src="/headshot2_square.jpg" alt="hi" class="inline"/>
+
 # Tong (Tina) Liu
 ### BSocSc (First Class Honors), MPhil, PhD
 
