@@ -11,10 +11,6 @@ EMPLOYMENT
 2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
 			Visiting fellow/Postdoc researcher
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
-			
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
 }
 ```
 			
