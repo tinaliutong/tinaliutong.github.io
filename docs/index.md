@@ -154,7 +154,7 @@ Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowshi
 
 2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
 
-Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship, UC Davis & UC Santa Barbara
+Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship
 
 May 2015	Student Travel Award, Vision Sciences Society
 
