@@ -11,9 +11,9 @@ Visiting fellow/Postdoc researcher
 Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 			
 ## EDUCATION & TRAINING
-Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) 
-			- Minneapolis, MN
-			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
+Summer 2018		
+Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN
+Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
 
 2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
 			Ph.D. in Psychology: Cognitive Neuroscience 
