@@ -57,7 +57,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 3. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (under review). Topographical and laminar distribution of audiovisual processing within human planum temporale.
 
-4. Liu, T.T.*, Chen, Z.*, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](DOI: https://psyarxiv.com/t89aw/) (*co-first authors with equal contribution)
+4. Liu, T.T.*, Chen, Z.*, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](https://psyarxiv.com/t89aw/) (*co-first authors with equal contribution)
 
 5. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
@@ -123,24 +123,24 @@ Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face reco
 
 
 ## REPRESENTATIVE MEDIA COVERAGE
-1. “The Brain That Remade Itself” OneZero — Medium
+1. “The Brain That Remade Itself” OneZero — Medium 
 [https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff](https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff)
 
 2. “When surgeons removed one sixth of a child's brain, here's what happened.” — CNN
 [https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html](https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html)
 
 3. “A 12-year-old had one-sixth of his brain removed. He feels ‘perfectly normal.’” — Washington Post
-https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/
+[https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/](https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/)
 
 4. “Boy recovers normal life after losing big part of his brain” — NBC News 
-https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731
+[https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731](https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731)
 
 5. “A child lost a sixth of his brain, then made an amazing comeback.” — PBS News Hour
-https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack
+[https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack](https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack)
 
-6. “Epileptic Girl Who Had Half Her Brain Removed Can Read After Organ Rewired Itself” — Newsweek https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797
+6. “Epileptic Girl Who Had Half Her Brain Removed Can Read After Organ Rewired Itself” — Newsweek [https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797](https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797)
 
-7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception
+7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
 
 
 ## HONORS, AWARDS & FELOWSHIPS
