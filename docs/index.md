@@ -65,7 +65,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 11. Hsiao, J. H., & Liu, T.T. (2012). The optimal viewing position in face recognition. Journal of Vision, 12(2):22, 1-9. DOI: https://doi.org/10.1167/12.2.22 
 
 
-#### Invited Talks
+### Invited Talks
 Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
 
 Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
@@ -77,7 +77,7 @@ Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual syste
 Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-#### Conference or Poster presentations
+### Conference or Poster presentations
 Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the 20th Annual (Virtual) Meeting of the Vision Sciences Society.
 
 Fu, J.Z., Liu, T.T., Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
@@ -111,3 +111,88 @@ Liu, T.T., Chen, Z., & Hayward, W.G. (2013, May). High and low: The resolution o
 Liu, T.T., & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
 
 Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
+
+
+## REPRESENTATIVE MEDIA COVERAGE
+1. “The Brain That Remade Itself” OneZero — Medium
+https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff
+
+2. “When surgeons removed one sixth of a child's brain, here's what happened.” — CNN
+https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html
+
+3. “A 12-year-old had one-sixth of his brain removed. He feels ‘perfectly normal.’” — Washington Post
+https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/
+
+4. “Boy recovers normal life after losing big part of his brain” — NBC News 
+https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731
+
+5. “A child lost a sixth of his brain, then made an amazing comeback.” — PBS News Hour
+https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack
+
+6. “Epileptic Girl Who Had Half Her Brain Removed Can Read After Organ Rewired Itself” — Newsweek https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797
+
+7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception
+
+## HONORS, AWARDS & FELOWSHIPS
+September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
+
+2018 – Present	Intramural Research Training Award, National Institutes of Health
+
+Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience
+
+2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
+
+Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship, UC Davis & UC Santa Barbara
+
+May 2015	Student Travel Award, Vision Sciences Society
+
+Summer 2014	Center for Brains, Minds, and Machines Summer School Fellowship
+
+2013 – 2014 	Ungerleider Carnegie Prize Fellowship, Carnegie Mellon University 
+
+July 2013	Student Travel Award, Asia-Pacific Conference on Vision 
+
+June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong 
+
+2011 – 2013 	Conference Grants for Research Postgraduate Students, University of Hong Kong
+
+2011 – 2013 	Postgraduate Scholarships, University of Hong Kong  
+
+2011	BSocSc awarded with First Class Honors, University of Hong Kong
+
+2010	Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
+
+2009	Serena Yang Award for Social Innovation, University of Hong Kong
+
+2009 – 2011	      Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
+
+
+## TEACHING EXPERIENCE AND CERTIFICATES
+```
+Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
+		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research, National Institutes of Mental Health
+
+Fall 2017	Biological Foundations of Behavior (CMU) 
+		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, coordinated undergrad TAs in grading
+
+Fall 2016	Cognitive Psychology (CMU) 
+		Teaching Assistant: guest lectured, held office hours, coordinated undergrad TAs in grading, led recitations 
+
+Spring 2015	Social Psychology (CMU) 
+		Teaching Assistant: guest lectured, held office hours, led recitation sections, graded essays and exams
+
+Fall 2015	Biological Foundations of Behavior (CMU) 
+		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, led recitations, coordinated undergrad TAs in grading
+
+Fall 2012	Introduction to Quantitative Methods in Psychology (HKU)
+		Teaching Assistant: led weekly tutorials, graded exams, held office hours
+
+Fall 2011	Foundations of Cognitive Science (HKU)
+		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
+```
+
+## Professional Affiliations 					
+Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping
+
+## Ad Hoc Reviewer
+Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann in 2019), Neuropsychologia, Visual Cognition
