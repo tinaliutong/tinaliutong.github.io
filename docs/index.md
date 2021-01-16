@@ -61,19 +61,17 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 5. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
-6. Liu, T.T.*, Freud, E.*, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (*co-first authors with equal contribution) 
-[12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
+6. Liu, T.T.*, Freud, E.*, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (*co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
 
-7. Liu, T.T., Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. Cell Reports. 24(5), 1113-1122.e6. DOI: https://doi.org/10.1016/j.celrep.2018.06.099
-[>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
+7. Liu, T.T., Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. Cell Reports. 24(5), 1113-1122.e6. [DOI: https://doi.org/10.1016/j.celrep.2018.06.099](https://doi.org/10.1016/j.celrep.2018.06.099) [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
 
 8. Liu, T.T., & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. Neuropsychologia. 105, 197-214. [DOI: https://doi.org/10.1016/j.neuropsychologia.2017.06.030](https://doi.org/10.1016/j.neuropsychologia.2017.06.030)
 
-9. Liu, T.T., & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. Frontiers in Human Neuroscience, 8. DOI: https://doi.org/10.3389/fnhum.2014.00750. This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.
+9. Liu, T.T., & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. Frontiers in Human Neuroscience, 8. [DOI: https://doi.org/10.3389/fnhum.2014.00750](https://doi.org/10.3389/fnhum.2014.00750) This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.
 
-10. Liu, T.T., Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. Visual Cognition, 22(8), 1050-1071. DOI: https://doi.org/10.1080/13506285.2014.944613
+10. Liu, T.T., Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. Visual Cognition, 22(8), 1050-1071. [DOI: https://doi.org/10.1080/13506285.2014.944613](https://doi.org/10.1080/13506285.2014.944613)
 
-11. Hsiao, J. H., & Liu, T.T. (2012). The optimal viewing position in face recognition. Journal of Vision, 12(2):22, 1-9. DOI: https://doi.org/10.1167/12.2.22 
+11. Hsiao, J. H., & Liu, T.T. (2012). The optimal viewing position in face recognition. Journal of Vision, 12(2):22, 1-9. [DOI: https://doi.org/10.1167/12.2.22](https://doi.org/10.1167/12.2.22)
 
 
 ### Invited Talks
@@ -126,10 +124,10 @@ Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face reco
 
 ## REPRESENTATIVE MEDIA COVERAGE
 1. “The Brain That Remade Itself” OneZero — Medium
-https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff
+[https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff](https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff)
 
 2. “When surgeons removed one sixth of a child's brain, here's what happened.” — CNN
-https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html
+[https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html](https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html)
 
 3. “A 12-year-old had one-sixth of his brain removed. He feels ‘perfectly normal.’” — Washington Post
 https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/
