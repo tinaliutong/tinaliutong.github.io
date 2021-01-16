@@ -57,12 +57,12 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 3. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (under review). Topographical and laminar distribution of audiovisual processing within human planum temporale.
 
-4. Liu, T.T.*, Chen, Z.*, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. DOI: https://psyarxiv.com/t89aw/ (*co-first authors with equal contribution)
-#### [DOI: https://psyarxiv.com/t89aw/](https://psyarxiv.com/t89aw/).
+4. Liu, T.T.*, Chen, Z.*, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](DOI: https://psyarxiv.com/t89aw/) (*co-first authors with equal contribution)
 
-5. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. DOI: https://doi.org/10.1016/j.neuroimage.2019.116345
+5. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
-6. Liu, T.T.*, Freud, E.*, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019  (*co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
+6. Liu, T.T.*, Freud, E.*, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (*co-first authors with equal contribution) 
+[12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
 
 7. Liu, T.T., Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. Cell Reports. 24(5), 1113-1122.e6. DOI: https://doi.org/10.1016/j.celrep.2018.06.099
 [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
