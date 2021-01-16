@@ -150,7 +150,7 @@ September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, Nation
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
 
-Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience
+Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
 
 2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
 
