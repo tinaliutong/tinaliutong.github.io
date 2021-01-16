@@ -1,17 +1,21 @@
-## Welcome to GitHub Pages
+## BIOGRAPHICAL SKETCH
 
-You can use the [editor on GitHub](https://github.com/tinaliutong/tinaliutong.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD under Marlene Behrmann at Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CV
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# EMPLOYMENT
+2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
+			            Visiting fellow/Postdoc researcher
+Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
+
+
 ## Header 2
 ### Header 3
 
