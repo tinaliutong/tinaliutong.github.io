@@ -1,8 +1,8 @@
 # Tong (Tina) Liu
 ### BSocSc (First Class Honors), MPhil, PhD
 
-#### [Link to Google Scholar profile](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
-#### [Link to ORCID page](https://orcid.org/0000-0003-0316-5356).
+##### [Link to Google Scholar profile](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
+##### [Link to ORCID page](https://orcid.org/0000-0003-0316-5356).
 
 
 
@@ -67,7 +67,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 7. Liu, T.T., Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. Cell Reports. 24(5), 1113-1122.e6. DOI: https://doi.org/10.1016/j.celrep.2018.06.099
 [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
 
-8. Liu, T.T., & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. Neuropsychologia. 105, 197-214. DOI: https://doi.org/10.1016/j.neuropsychologia.2017.06.030
+8. Liu, T.T., & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. Neuropsychologia. 105, 197-214. [DOI: https://doi.org/10.1016/j.neuropsychologia.2017.06.030](https://doi.org/10.1016/j.neuropsychologia.2017.06.030)
 
 9. Liu, T.T., & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. Frontiers in Human Neuroscience, 8. DOI: https://doi.org/10.3389/fnhum.2014.00750. This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.
 
