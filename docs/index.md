@@ -1,6 +1,6 @@
 # BIOGRAPHICAL SKETCH
 
-I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD under Marlene Behrmann at Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
+I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD from Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
 
 # EMPLOYMENT
@@ -12,7 +12,7 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 			
 # EDUCATION & TRAINING
 ```
-Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN
+Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN, USA
 			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
 
 2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
@@ -20,10 +20,10 @@ Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) -
 			Advisor: Dr. Marlene Behrmann
 			Committee: Drs. Michael Tarr, David Plaut, & Carl Olson
 
-Summer 2015		Kavli Summer Institute in Cognitive Neuroscience - Santa Barbara, CA, USA
+Summer 2015		Kavli Summer Institute in Cognitive Neuroscience - Santa Barbara, CA, USA 
 			Coordinators: Drs. Brian Wandell & Susan Bookheimer
 
-Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, USA
+Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, USA 
 			Coordinators: Drs. Tomaso Poggio & L. Mahadevan 
 
 2011.9 – 2013.8 	University of Hong Kong – Hong Kong, China 
@@ -38,7 +38,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 			Student Exchange Program 
 			GPA: 4.0/4.0 
 ```
-
 
 ## PUBLICATIONS
 ### Peer-reviewed articles
@@ -78,23 +77,5 @@ Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual syste
 Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tinaliutong/tinaliutong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Conference or Poster presentations
 
