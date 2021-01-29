@@ -216,14 +216,10 @@ Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon
 
 2012 – 2013	Councilor, Postgraduate Student Association, University of Hong Kong
 
-2012 – 2013	Captain, Swimming Team, Graduate House, University of Hong Kong
-
 2008 – 2011	Student Ambassador, University of Hong Kong
 
 
 NATIONAL SERVICE
-
-2021 – Present	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 
 2019		Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
 
