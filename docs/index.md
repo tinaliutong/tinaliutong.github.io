@@ -54,9 +54,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Peer-reviewed articles
 1. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
 
-2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under consideration). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
+2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
 
-3. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (under review). Topographical and laminar distribution of audiovisual processing within human planum temporale.
+3. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (under revision). Topographical and laminar distribution of audiovisual processing within human planum temporale.
 
 4. Liu, T.T.#, Chen, Z.#, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](https://psyarxiv.com/t89aw/) (#co-first authors with equal contribution)
 
