@@ -56,10 +56,10 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
 
-3. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (under revision). Topographical and laminar distribution of audiovisual processing within human planum temporale.
+3. Liu, T.T.#, Chen, Z.#, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](https://psyarxiv.com/t89aw/) (#co-first authors with equal contribution)
 
-4. Liu, T.T.#, Chen, Z.#, Oxner, M., Wang, W., Ku, Y., & Hayward, W.G. (under revision). Seeing both the forest and the trees: Distinct resolution of hierarchical representations in visual working memory. Preprint at PsyArXiv. [DOI: https://psyarxiv.com/t89aw/](https://psyarxiv.com/t89aw/) (#co-first authors with equal contribution)
-
+4. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121]
+ 
 5. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
 6. Liu, T.T.#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
