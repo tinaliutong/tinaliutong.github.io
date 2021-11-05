@@ -52,7 +52,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ## PUBLICATIONS
 ## Peer-reviewed articles
-12. Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2021). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Registration DOI: 10.17605/OSF.IO/S975H
+12. Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2021). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Registration DOI: https://doi.org/10.17605/OSF.IO/S975H 
 
 11. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
 
