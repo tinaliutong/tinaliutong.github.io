@@ -60,7 +60,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 5. Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2021). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. [Preregistration DOI: https://doi.org/10.17605/OSF.IO/S975H] (https://doi.org/10.17605/OSF.IO/S975H)
 
-8. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. Progress in Neurobiology. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
+8. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. Progress in Neurobiology. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121] (https://doi.org/10.1016/j.pneurobio.2021.102121)
  
 7. Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345] (https://doi.org/10.1016/j.neuroimage.2019.116345)
 
