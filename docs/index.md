@@ -90,6 +90,10 @@ Liu, T.T. (2016, June). The developing ventral visual pathway in in patients wit
 
 
 ### Conference presentations
+Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022). Plasticity of visual cortex following large cortical resections. Talk to be presented at 22th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. 
+
+Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2022). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster to be presented at 22th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
+
 Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the 20th Annual (Virtual) Meeting of the Vision Sciences Society.
 
 Fu, J.Z., Liu, T.T., Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
@@ -101,8 +105,6 @@ Fu, J.Z, Liu, T.T., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019,
 Fu, J.Z., Liu T.T., Japee, S., Merriam, E.P., Ungerleider, L.G. (2018, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
 
 Yang, F.N., Xu, S., Liu, T.T., Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, DC. 
-
-Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
 
 Liu, T.T., Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
