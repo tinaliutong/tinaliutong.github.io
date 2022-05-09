@@ -54,7 +54,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Peer-reviewed articles
 1. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
 
-2. Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (submitted). The mechanisms supporting holistic perception of words and faces are not independent.
+2. Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (under review). The mechanisms supporting holistic perception of words and faces are not independent.
 
 2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
 
@@ -213,39 +213,24 @@ Fall 2011	Foundations of Cognitive Science (HKU)
 ## ADMINISTRATIVE SERVICE
 ```
 INSTITUTIONAL SERVICE
-
 2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon University
-
 Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon University
-
 2012 – 2013	Councilor, Postgraduate Student Association, University of Hong Kong
-
 2008 – 2011	Student Ambassador, University of Hong Kong
 
-
-NATIONAL SERVICE
-
-2021.12 - 	Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
-
-2019		Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
-
+PROFESSIONAL SERVICE
+Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
+Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+Ad hoc Reviewer, Visual Cognition
+Ad hoc Reviewer, Neuropsychologia
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
-2018		Ad hoc Reviewer, Visual Cognition
-
-2017		Ad hoc Reviewer, Neuropsychologia
-
+LOCAL SERVICE
+Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong Kong
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
 
-
-LOCAL SERVICE
-
-Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong Kong
-
 ```
-
 ## Professional Affiliations 					
 Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping
 
