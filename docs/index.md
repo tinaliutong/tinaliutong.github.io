@@ -54,6 +54,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Peer-reviewed articles
 1. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
 
+2. Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (submitted). The mechanisms supporting holistic perception of words and faces are not independent.
+
 2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
 
 3. Yang, F.N., Liu, T.T., Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. Human Brain Mapping. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
