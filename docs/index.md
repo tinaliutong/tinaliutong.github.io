@@ -56,7 +56,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2. Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (under review). The mechanisms supporting holistic perception of words and faces are not independent.
 
-2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. 
+2. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (under review). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Preprints available at https://www.biorxiv.org/content/10.1101/2022.07.10.499443v1
 
 3. Yang, F.N., Liu, T.T., Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. Human Brain Mapping. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
