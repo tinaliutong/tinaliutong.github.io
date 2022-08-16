@@ -52,7 +52,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ## PUBLICATIONS
 ## Peer-reviewed articles
-1. Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. 
+1. Liu, T.T.#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Plasticity of visual cortex following large cortical resections. (#co-first authors with equal contribution) 
 
 2. Bachmann, H.P., Japee, S., Merriam, E.P.#, Liu, T.T.# (in preparation). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution)
 
