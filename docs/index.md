@@ -58,13 +58,13 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 3. Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (under review). The mechanisms supporting holistic perception of words and faces are not independent.
 
-4. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (Accepted). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Preprint DOI: [https://www.biorxiv.org/content/10.1101/2022](https://doi.org/10.1101/2022.07.10.499443)
+4. Liu, T.T., Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (Accepted). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Nature Communications. Preprint DOI: [https://www.biorxiv.org/content/10.1101/2022](https://doi.org/10.1101/2022.07.10.499443)
 
 5. Bachmann, H.P., Japee, S., Merriam, E.P.#, Liu, T.T.# (2022). The relationship between emotional valence, anxiety, and attentional disengagement. OSF Preregistration DOI: https://doi.org/10.17605/OSF.IO/V9PW8 (#co-senior authors with equal contribution)
 
 6. Yang, F.N., Liu, T.T., Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. Human Brain Mapping. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
-7. Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2021). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. [Preregistration DOI: https://doi.org/10.17605/OSF.IO/V9PW8](https://doi.org/10.17605/OSF.IO/V9PW8)
+7. Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2021). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Preregistration DOI: https://doi.org/10.17605/OSF.IO/V9PW8
 
 8. Chai, Y., Liu, T.T., Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. Progress in Neurobiology. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
  
