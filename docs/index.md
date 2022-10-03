@@ -9,12 +9,12 @@
 
 ## BIOGRAPHICAL SKETCH
 
-I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institutes of Mental Health. I completed my PhD from Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
+I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institute of Mental Health. I completed my PhD from Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
 
 ## EMPLOYMENT
 ```
-2018.7 – Present	National Institutes of Mental Health – Bethesda, MD, USA
+2018.7 – Present	National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
@@ -171,20 +171,35 @@ Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face reco
 ## HONORS, AWARDS & FELOWSHIPS
 ```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
+
 2018 – Present	Intramural Research Training Award, National Institutes of Health
+
 Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
+
 2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
+
 Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship
+
 May 2015	Student Travel Award, Vision Sciences Society
+
 Summer 2014	Center for Brains, Minds, and Machines Summer School Fellowship
+
 2013 – 2014 	Ungerleider Carnegie Prize Fellowship, Carnegie Mellon University 
+
 July 2013	Student Travel Award, Asia-Pacific Conference on Vision 
+
 June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong 
+
 2011 – 2013 	Conference Grants for Research Postgraduate Students, University of Hong Kong
+
 2011 – 2013 	Postgraduate Scholarships, University of Hong Kong  
+
 2011		BSocSc awarded with First Class Honors, University of Hong Kong
+
 2010		Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
+
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
+
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
 ```
 
@@ -192,16 +207,23 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 ```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research, National Institutes of Mental Health
+
 Fall 2017	Biological Foundations of Behavior (CMU) 
 		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, coordinated undergrad TAs in grading
+
 Fall 2016	Cognitive Psychology (CMU) 
 		Teaching Assistant: guest lectured, held office hours, coordinated undergrad TAs in grading, led recitations 
+
 Spring 2015	Social Psychology (CMU) 
 		Teaching Assistant: guest lectured, held office hours, led recitation sections, graded essays and exams
+
 Fall 2015	Biological Foundations of Behavior (CMU) 
-		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, led recitations, coordinated undergrad TAs in grading
+		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, led recitations, coordinated undergrad TAs in 
+		grading
+
 Fall 2012	Introduction to Quantitative Methods in Psychology (HKU)
 		Teaching Assistant: led weekly tutorials, graded exams, held office hours
+
 Fall 2011	Foundations of Cognitive Science (HKU)
 		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
 ```
@@ -212,8 +234,10 @@ Fall 2011	Foundations of Cognitive Science (HKU)
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		 
 2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-Jason Fu (2018-2021, now MD student at New York Medical School)
-Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
+
+	Jason Fu (2018-2021, now MD student at New York Medical School)
+
+	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH 		Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
 ```
 ## EDITORIAL SERVICE
 ```
@@ -226,11 +250,18 @@ Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behr
 ## OTHER SERVICE
 ```
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
-2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon University
+
+2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon 
+		University
+
 Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon University
+
 2012 – 2013	Councilor, Postgraduate Student Association, University of Hong Kong
+
 Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong Kong
+
 2008 – 2011	Student Ambassador, University of Hong Kong
+
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
 ```
  
