@@ -87,7 +87,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, Liu, T.T.# (2021). The relationship between emotional valence, anxiety, and attentional bias. OSF Preregistration DOI: https://doi.org/10.17605/OSF.IO/S975H (#co-senior authors with equal contribution)  
 
 
-### Invited Talks
+## Invited Talks
 Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
 
 Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
@@ -99,7 +99,7 @@ Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual syste
 Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-### Conference Talks
+## Conference Talks
 Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk to be presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
 Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk to be presented at Optica Fall Vision Meeting. Rochester, NY. 
@@ -118,7 +118,7 @@ Liu, T.T., Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic proce
 
 Liu, T.T. (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
 
-### Conference Posters
+## Conference Posters
 Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
 
 Bachmann, H.P., Japee, S., Merriam, E.P., Liu, T.T. (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. [Helena Bachmann received Outstanding Poster Award]
@@ -169,99 +169,64 @@ Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face reco
 
 
 ## HONORS, AWARDS & FELOWSHIPS
-```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
-
 2018 – Present	Intramural Research Training Award, National Institutes of Health
-
 Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
-
 2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
-
 Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship
-
 May 2015	Student Travel Award, Vision Sciences Society
-
 Summer 2014	Center for Brains, Minds, and Machines Summer School Fellowship
-
 2013 – 2014 	Ungerleider Carnegie Prize Fellowship, Carnegie Mellon University 
-
 July 2013	Student Travel Award, Asia-Pacific Conference on Vision 
-
 June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong 
-
 2011 – 2013 	Conference Grants for Research Postgraduate Students, University of Hong Kong
-
 2011 – 2013 	Postgraduate Scholarships, University of Hong Kong  
-
 2011		BSocSc awarded with First Class Honors, University of Hong Kong
-
 2010		Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
-
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
-
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
-```
+
 
 ## TEACHING EXPERIENCE AND CERTIFICATES
-```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research, National Institutes of Mental Health
-
 Fall 2017	Biological Foundations of Behavior (CMU) 
 		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, coordinated undergrad TAs in grading
-
 Fall 2016	Cognitive Psychology (CMU) 
 		Teaching Assistant: guest lectured, held office hours, coordinated undergrad TAs in grading, led recitations 
-
 Spring 2015	Social Psychology (CMU) 
 		Teaching Assistant: guest lectured, held office hours, led recitation sections, graded essays and exams
-
 Fall 2015	Biological Foundations of Behavior (CMU) 
 		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, led recitations, coordinated undergrad TAs in grading
-
 Fall 2012	Introduction to Quantitative Methods in Psychology (HKU)
 		Teaching Assistant: led weekly tutorials, graded exams, held office hours
-
 Fall 2011	Foundations of Cognitive Science (HKU)
 		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
-```
+
 ## MENTORING EXPERIENCE
-
-2021 – Present	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-
+2021 – Present	Mentor, Action Potential Advising Program 
+		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+		 
 2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-	Jason Fu (2018-2021, now MD student at New York Medical School)
-	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
+Jason Fu (2018-2021, now MD student at New York Medical School)
+Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
 
 ## EDITORIAL SERVICE
-
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
-
 Ad hoc Reviewer, Visual Cognition
-
 Ad hoc Reviewer, Neuropsychologia
-
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
  
-## ADMINISTRATIVE SERVICE
-```
+
 ## OTHER SERVICE
-
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
-
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon University
-
 Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon University
-
 2012 – 2013	Councilor, Postgraduate Student Association, University of Hong Kong
-
 Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong Kong
-
 2008 – 2011	Student Ambassador, University of Hong Kong
- v
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
  
-```
+ 
 ## Professional Affiliations 					
 Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping, Optica Fall Vision Meeting (formerly OSA) 
