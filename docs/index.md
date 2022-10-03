@@ -237,13 +237,16 @@ Fall 2011	Foundations of Cognitive Science (HKU)
 
 	Jason Fu (2018-2021, now MD student at New York Medical School)
 
-	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH 		Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
+	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
 ```
 ## EDITORIAL SERVICE
 ```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
+
 Ad hoc Reviewer, Visual Cognition
+
 Ad hoc Reviewer, Neuropsychologia
+
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
  ```
 
