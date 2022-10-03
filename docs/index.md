@@ -52,7 +52,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ## PUBLICATIONS
 ## Manuscript under review or in preparation
-1.	Liu, T.T.*, Granovetter, M.*, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (*co-first authors with equal contribution)
+1.	Liu, T.T.#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, Liu, T.T.# (in preparation). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution)
 
@@ -69,7 +69,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 8.	Maallo, A.M.S., Freud, E., Liu, T.T., Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. NeuroImage. 207, 116345. DOI: https://doi.org/10.1016/j.neuroimage.2019.116345
 
-9.	Liu, T.T.*, Freud, E.*, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019  (*co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
+9.	Liu, T.T.#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. Journal of Neuroscience. 3160-18. DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019  (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
 
 10.	Liu, T.T., Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. Cell Reports. 24(5), 1113-1122.e6. DOI: http://doi.org/10.1016/j.celrep.2018.06.099  [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
 
@@ -169,6 +169,7 @@ Hsiao, J.H., & Liu, T.T. (2011, July). The optimal viewing position in face reco
 
 
 ## HONORS, AWARDS & FELOWSHIPS
+```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
 2018 – Present	Intramural Research Training Award, National Institutes of Health
 Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
@@ -185,9 +186,10 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2010		Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
-
+```
 
 ## TEACHING EXPERIENCE AND CERTIFICATES
+```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research, National Institutes of Mental Health
 Fall 2017	Biological Foundations of Behavior (CMU) 
@@ -202,23 +204,27 @@ Fall 2012	Introduction to Quantitative Methods in Psychology (HKU)
 		Teaching Assistant: led weekly tutorials, graded exams, held office hours
 Fall 2011	Foundations of Cognitive Science (HKU)
 		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
+```
 
 ## MENTORING EXPERIENCE
+```
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		 
 2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 Jason Fu (2018-2021, now MD student at New York Medical School)
 Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
-
+```
 ## EDITORIAL SERVICE
+```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 Ad hoc Reviewer, Visual Cognition
 Ad hoc Reviewer, Neuropsychologia
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
- 
+ ```
 
 ## OTHER SERVICE
+```
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon University
 Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon University
@@ -226,7 +232,7 @@ Fall 2014	Organizer, Cognitive Brown Bag, Psychology Department, Carnegie Mellon
 Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong Kong
 2008 – 2011	Student Ambassador, University of Hong Kong
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
- 
+```
  
 ## Professional Affiliations 					
 Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping, Optica Fall Vision Meeting (formerly OSA) 
