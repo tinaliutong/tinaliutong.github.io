@@ -96,7 +96,7 @@ Liu, T.T. (2016, June). The developing ventral visual pathway in in patients wit
 ## Conference Talks
 Liu, T.T., Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk to be presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
-Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk to be presented at Optica Fall Vision Meeting. Rochester, NY. 
+Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
 
 Granovetter, M., Liu, T.T., Maallo, A.M.S., Patterson, C., & Behrmann, M. (2022, June). Delineating the Time-Course of Visual System Plasticity, Pre- and Post-Pediatric Occipital Lobectomy. Talk presented at the 28th Annual Meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
 
