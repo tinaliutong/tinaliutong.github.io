@@ -50,12 +50,12 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, Liu, T.T.# (in preparation). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution)
 
-3.	Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (under review). The mechanisms supporting holistic perception of words and faces are not independent. 
-
-4.	Ventura, P., Pereira, A., Cruz, F., Liu, T.T., Domingues, M., Guerreiro, J. C., & Delgado, J. (under revision). Faces in paintings are processed holistically and related to general abstract visual information. Psychology of Aesthetics, Creativity, and the Arts.
+3.	Ventura, P., Pereira, A., Cruz, F., Liu, T.T., Domingues, M., Guerreiro, J. C., & Delgado, J. (under revision). Faces in paintings are processed holistically and related to general abstract visual information. Psychology of Aesthetics, Creativity, and the Arts.
 
 ## Peer-reviewed articles
-5.	Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (in press). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Nature Communications. Preprint DOI: https://doi.org/10.1101/2022.07.10.499443
+3.	Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (in press). The mechanisms supporting holistic perception of words and faces are not independent. Memory and Cognition. 
+4.	
+5.	Liu, T.T., Fu, J.Z., Chai, Y., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Nature Communications. DOI: https://doi.org/10.1038/s41467-022-33580-7
 
 6.	Yang, F.N., Liu, T.T., Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. Human Brain Mapping. 43(6), 2041-2050. DOI: https://doi.org/10.1002/hbm.25772
 
