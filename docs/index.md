@@ -52,6 +52,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 3.	Ventura, P., Pereira, A., Cruz, F., **Liu, T.T.**, Domingues, M., Guerreiro, J. C., & Delgado, J. (under revision). Faces in paintings are processed holistically and related to general abstract visual information. Psychology of Aesthetics, Creativity, and the Arts.
 
+4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents.
+
 ## Peer-reviewed articles
 4.	Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (in press). The mechanisms supporting holistic perception of words and faces are not independent. Memory and Cognition. 
 
