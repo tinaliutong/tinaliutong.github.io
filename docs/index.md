@@ -55,7 +55,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents.
 
 ## Peer-reviewed articles
-4.	Ventura, P., Liu, T.T., Cruz., F., & Pereira, A. (in press). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_. 
+4.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (in press). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_. 
 
 5.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Chai, Y., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. DOI: https://doi.org/10.1038/s41467-022-33580-7
 
