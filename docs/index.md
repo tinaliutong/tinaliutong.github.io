@@ -48,9 +48,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in preparation
 1.	**Liu, T.T.**#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
-2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (in preparation). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution)
+2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (submitted). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). Preprint DOI: https://osf.io/qcp34/[https://osf.io/qcp34/]
 
-3.	Ventura, P., Pereira, A., Cruz, F., **Liu, T.T.**, Domingues, M., Guerreiro, J. C., & Delgado, J. (under revision). Faces in paintings are processed holistically and related to general abstract visual information. Psychology of Aesthetics, Creativity, and the Arts.
+3.	Ventura, P., Pereira, A., Cruz, F., **Liu, T.T.**, Domingues, M., Guerreiro, J. C., & Delgado, J. (under revision). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_.
 
 4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents.
 
@@ -115,6 +115,8 @@ Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (20
 **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
 
 ## Conference Posters
+Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
+
 Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
 
 Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. [Helena Bachmann received Outstanding Poster Award]
@@ -127,7 +129,7 @@ Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2
 
 Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
 
-Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, DC. 
+Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
 
 **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
