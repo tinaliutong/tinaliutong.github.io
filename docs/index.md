@@ -59,7 +59,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 5.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7)
 
-4.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0) Featured by Psychonomic Society [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
+4.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
 
 6.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_. 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
