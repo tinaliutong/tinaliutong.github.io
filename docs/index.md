@@ -8,6 +8,10 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 
 ## EMPLOYMENT
 ```
+2023.6 –		National Institute of Mental Health – Bethesda, MD, USA
+			Research Fellow
+			Advisor: Dr. Elisha Merriam
+
 2018.7 – Present	National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
@@ -99,9 +103,9 @@ Liu, T.T. (2016, June). The developing ventral visual pathway in in patients wit
 ## Submitted Conference Abstracts
 Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
 
-Liu, T.T., Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
+**Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
 
-Cavanaugh, M.R., Liu, T.T., Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023.
+Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023.
 
 ## Conference Talks
 **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
