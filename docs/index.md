@@ -112,53 +112,53 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Conference Talks
 1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
-**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
+2. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
 
-Granovetter, M., **Liu, T.T.**, Maallo, A.M.S., Patterson, C., & Behrmann, M. (2022, June). Delineating the Time-Course of Visual System Plasticity, Pre- and Post-Pediatric Occipital Lobectomy. Talk presented at the 28th Annual Meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
+3. Granovetter, M., **Liu, T.T.**, Maallo, A.M.S., Patterson, C., & Behrmann, M. (2022, June). Delineating the Time-Course of Visual System Plasticity, Pre- and Post-Pediatric Occipital Lobectomy. Talk presented at the 28th Annual Meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
 
-**Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, May). Plasticity of visual cortex following large cortical resections. Talk presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+4. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, May). Plasticity of visual cortex following large cortical resections. Talk presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the Annual (Virtual) Meeting of the Vision Sciences Society.
+5. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the Annual (Virtual) Meeting of the Vision Sciences Society.
 
-**Liu, T.T.**, Nestor, A., Patterson, C., Vida, M., Pyles, J., Yang, Y., Freud, E., & Behrmann, M. (2016, May). The developing ventral visual pathway in a young patient following right occipito-temporal lobectomy. Talk presented at 16th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. 
+6. **Liu, T.T.**, Nestor, A., Patterson, C., Vida, M., Pyles, J., Yang, Y., Freud, E., & Behrmann, M. (2016, May). The developing ventral visual pathway in a young patient following right occipito-temporal lobectomy. Talk presented at 16th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. 
 
-Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (2013, May). Eye movements for scrambled faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China.
+7. Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (2013, May). Eye movements for scrambled faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China.
 
-**Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. [Student Travel Award] 
+8. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. [Student Travel Award] 
 
-**Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
+9. **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
 
 
 ## Conference Posters
 1. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
-Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
+2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
 
-Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. [Helena Bachmann received Outstanding Poster Award]
+3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. [Helena Bachmann received Outstanding Poster Award]
 
-Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
+4. Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
 
-**Liu, T.T.**, Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, October). Affective processing of face stimuli in human primary visual cortex. Poster presented at the 49th Annual Meeting of the Society for Neuroscience, Chicago, IL. 
+5. **Liu, T.T.**, Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, October). Affective processing of face stimuli in human primary visual cortex. Poster presented at the 49th Annual Meeting of the Society for Neuroscience, Chicago, IL. 
 
-Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, DC.
+6. Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, DC.
 
-Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
+7. Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
 
-Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
+8. Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
 
-**Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
+9. **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
-**Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  [Student Travel Award]
+10. **Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  [Student Travel Award]
 
-**Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2014, May). Holistic processing for left-right composite faces. Poster presented at the 14th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  
+11. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2014, May). Holistic processing for left-right composite faces. Poster presented at the 14th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  
 
-Hayward, W.G., Lao, J., Cheng, Z., Crookes, K., **Liu, T.T.**, & Caldara. R. (2013, May). Eye movements for scrambled faces. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL.
+12. Hayward, W.G., Lao, J., Cheng, Z., Crookes, K., **Liu, T.T.**, & Caldara. R. (2013, May). Eye movements for scrambled faces. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL.
 
-**Liu, T.T.**, Chen, Z., & Hayward, W.G. (2013, May). High and low: The resolution of representations in visual working memory. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+13. **Liu, T.T.**, Chen, Z., & Hayward, W.G. (2013, May). High and low: The resolution of representations in visual working memory. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL. 
 
-**Liu, T.T.**, & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+14. **Liu, T.T.**, & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
 
-Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
+15. Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
 
 
 ## REPRESENTATIVE MEDIA COVERAGE
@@ -236,37 +236,37 @@ Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Onli
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research
 		National Institutes of Mental Health
 
-Fall 2017	Biological Foundations of Behavior (CMU), Teaching Assistant
+Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
 		Guest lectured (The Visual System)
-		Assisted with dissection labs
+		Assisted with dissection labs (Eye Dissection & Brain Dissection)
 		Held office hours
 		Coordinated undergrad TAs in grading
 
-Fall 2016	Cognitive Psychology (CMU), Teaching Assistant
-		Guest lectured
+Fall 2016	Cognitive Psychology (CMU), Course instructor: Eric Thiessen
+		Guest lectured (Face)
 		Held office hours
 		Coordinated undergrad TAs in grading
 		Led recitations 
 
-Spring 2015	Social Psychology (CMU), Teaching Assistant
+Spring 2015	Social Psychology (CMU), Course instructor: Vicki Helgeson
 		Guest lectured ("Fixed vs. Growth: The Two Basic Mindsets")
 		Held office hours
 		Led recitation sections
 		Graded essays and exams
 
-Fall 2015	Biological Foundations of Behavior (CMU), Teaching Assistant
-		Guest lectured  
-		Assisted with dissection labs
+Fall 2015	Biological Foundations of Behavior (CMU), Course instructor: Marlene Behrmann
+		Guest lectured (The Visual System) 
+		Assisted with dissection labs (Eye Dissection & Brain Dissection)
 		Held office hours
 		Led recitations
 		Coordinated undergrad TAs in grading
 
-Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Teaching Assistant
+Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Course instructor: Li Li(https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/li-li)
 		Led weekly tutorials
 		Graded exams
 		Held office hours
 
-Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutorial Coordinator
+Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: [Li Li](https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/li-li)
 		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
