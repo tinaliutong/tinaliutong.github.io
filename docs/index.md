@@ -177,18 +177,17 @@ Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face 
 
 7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
 
+
 ## WRITING FOR THE PUBLIC
-```
-As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. 
+In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
 
 Book: 亚优秀症候群（Imposter Syndrome） https://www.zhihu.com/pub/book/19551075
 
 Live podcast: 如何停止自我否定，摆脱「骗子综合症」？（How to cvercome imposter feelings?）https://www.zhihu.com/lives/1035484758083346432
 
 
-
 ## HONORS, AWARDS & FELOWSHIPS
-```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
@@ -220,10 +219,9 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
 
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
-```
+
 
 ## TEACHING EXPERIENCE AND CERTIFICATES
-```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research
 		National Institutes of Mental Health
@@ -262,10 +260,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
-```
+
 
 ## MENTORING EXPERIENCE
-```
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		 
@@ -274,10 +271,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 	Jason Fu (2018-2021, now MD student at New York Medical School)
 
 	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
-```
+
 
 ## EDITORIAL SERVICE
-```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
 Ad hoc Reviewer, Visual Cognition
@@ -285,10 +281,9 @@ Ad hoc Reviewer, Visual Cognition
 Ad hoc Reviewer, Neuropsychologia
 
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
- ```
+
 
 ## OTHER SERVICE
-```
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon 
@@ -303,7 +298,7 @@ Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong K
 2008 – 2011	Student Ambassador, University of Hong Kong
 
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
-```
+ 
  
 ## Professional Affiliations 					
 Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping, Optica Fall Vision Meeting (formerly OSA) 
