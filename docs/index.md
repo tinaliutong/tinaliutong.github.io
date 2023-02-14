@@ -183,10 +183,10 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, this idea came from René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
 
 Since I started writing cognitive psychology and the brain for the public in 2015, my popular science blog has more than 110,000 followers to date.
-I have ongoing collaboration with editors at Zhihu, a forum website in Chinese similar to Quora in English. 
+I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese similar to Quora in English and evolved to have their own publishing group. 
 
 1. eBook: 亚优秀症候群（Imposter Syndrome) 
 [Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
@@ -237,7 +237,7 @@ Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Onli
 		National Institutes of Mental Health
 
 Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
-		Guest lectured (The Visual System)
+		Guest lectured ("The Visual System")
 		Assisted with dissection labs (Eye Dissection & Brain Dissection)
 		Held office hours
 		Coordinated undergrad TAs in grading
@@ -261,12 +261,12 @@ Fall 2015	Biological Foundations of Behavior (CMU), Course instructor: Marlene B
 		Led recitations
 		Coordinated undergrad TAs in grading
 
-Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Course instructor: Li Li(https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/li-li)
+Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Course instructor: Li Li
 		Led weekly tutorials
 		Graded exams
 		Held office hours
 
-Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: [Li Li](https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/li-li)
+Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
