@@ -124,17 +124,17 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 7. Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (2013, May). Eye movements for scrambled faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China.
 
-8. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. [Student Travel Award] 
+8. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. **[Student Travel Award]** 
 
-9. **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
+9. **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. **[Best Oral Presentation]**
 
 
 ## Conference Posters
 1. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
-2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
+2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Travel Award]**
 
-3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. [Helena Bachmann received Outstanding Poster Award]
+3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received Outstanding Poster Award]**
 
 4. Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
 
@@ -148,7 +148,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 9. **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
-10. **Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  [Student Travel Award]
+10. **Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  **[Student Travel Award]**
 
 11. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2014, May). Holistic processing for left-right composite faces. Poster presented at the 14th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  
 
@@ -183,7 +183,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
 
 Since I started writing cognitive psychology and the brain for the public in 2015, my popular science blog has more than 110,000 followers to date.
 I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese similar to Quora in English and evolved to have their own publishing group. 
@@ -191,7 +191,7 @@ I have an ongoing collaboration with editors at Zhihu, which started as a forum 
 1. eBook: 亚优秀症候群（Imposter Syndrome) 
 [Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
 
-2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to cvercome imposter feelings?）
+2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to overcome imposter feelings?）
 [Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
 
