@@ -183,13 +183,15 @@ Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face 
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. 
-In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
 
-eBook: 亚优秀症候群（Imposter Syndrome) 
+Since I started writing cognitive psychology and the brain for the public in 2015, my popular science blog has more than 110,000 followers to date.
+I have ongoing collaboration with editors at Zhihu, a forum website in Chinese similar to Quora in English. 
+
+1. eBook: 亚优秀症候群（Imposter Syndrome) 
 [Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
 
-Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to cvercome imposter feelings?）
+2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to cvercome imposter feelings?）
 [Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
 
