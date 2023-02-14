@@ -59,29 +59,29 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
 
 ## Peer-reviewed articles
-4.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (accepted). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. (#co-first authors with equal contribution)
+5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (accepted). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. (#co-first authors with equal contribution)
 
-5.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7)
+6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7)
 
-4.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
+7.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
 
-6.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_. 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
+8.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_. 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
-7.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_. 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
+9.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_. 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
 
-8.	Maallo, A.M.S., Freud, E., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. _NeuroImage_. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
+10.	Maallo, A.M.S., Freud, E., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. _NeuroImage_. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
-9.	**Liu, T.T.**#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. _Journal of Neuroscience_. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
+11.	**Liu, T.T.**#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. _Journal of Neuroscience_. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
 
-10.	**Liu, T.T.**, Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. _Cell Reports_. 24(5), 1113-1122.e6. [DOI: http://doi.org/10.1016/j.celrep.2018.06.099](http://doi.org/10.1016/j.celrep.2018.06.099) [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
+12.	**Liu, T.T.**, Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. _Cell Reports_. 24(5), 1113-1122.e6. [DOI: http://doi.org/10.1016/j.celrep.2018.06.099](http://doi.org/10.1016/j.celrep.2018.06.099) [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
 
-11.	**Liu, T.T.**, & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. _Neuropsychologia_. 105, 197-214. [DOI: http://doi.org/10.1016/j.neuropsychologia.2017.06.030](http://doi.org/10.1016/j.neuropsychologia.2017.06.030)
+13.	**Liu, T.T.**, & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. _Neuropsychologia_. 105, 197-214. [DOI: http://doi.org/10.1016/j.neuropsychologia.2017.06.030](http://doi.org/10.1016/j.neuropsychologia.2017.06.030)
 
-12.	**Liu, T.T.**, & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. _Frontiers in Human Neuroscience_, 8. [DOI: http://doi.org/10.3389/fnhum.2014.00750](http://doi.org/10.3389/fnhum.2014.00750)  (This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.)
+14.	**Liu, T.T.**, & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. _Frontiers in Human Neuroscience_, 8. [DOI: http://doi.org/10.3389/fnhum.2014.00750](http://doi.org/10.3389/fnhum.2014.00750)  (This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.)
 
-13.	**Liu, T.T.**, Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. _Visual Cognition_, 22(8), 1050-1071. [DOI: http://doi.org/10.1080/13506285.2014.944613](http://doi.org/10.1080/13506285.2014.944613)
+15.	**Liu, T.T.**, Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. _Visual Cognition_, 22(8), 1050-1071. [DOI: http://doi.org/10.1080/13506285.2014.944613](http://doi.org/10.1080/13506285.2014.944613)
 
-14.	Hsiao, J. H., & **Liu, T.T.** (2012). The optimal viewing position in face recognition. _Journal of Vision_, 12(2):22, 1-9. [DOI: http://doi.org/10.1167/12.2.22](http://doi.org/10.1167/12.2.22)
+16.	Hsiao, J. H., & **Liu, T.T.** (2012). The optimal viewing position in face recognition. _Journal of Vision_, 12(2):22, 1-9. [DOI: http://doi.org/10.1167/12.2.22](http://doi.org/10.1167/12.2.22)
 
 ## Preregistered studies 
 1.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (2022). The relationship between emotional valence, anxiety, and attentional disengagement. [OSF Preregistration DOI: https://doi.org/10.17605/OSF.IO/V9PW8](https://doi.org/10.17605/OSF.IO/V9PW8) (#co-senior authors with equal contribution)
@@ -90,22 +90,24 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Invited Talks
-Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
+1. Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
 
-Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
+2. Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
 
-Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institutes of Mental Health, National Institutes of Health, Bethesda, MD.
+3. Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institutes of Mental Health, National Institutes of Health, Bethesda, MD.
 
-Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
+4. Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
 
-Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
+5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
-## Submitted Conference Abstracts
+
+## Recently submitted Conference Abstracts
 Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
 
 **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
 
 Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023.
+
 
 ## Conference Talks
 **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
@@ -125,6 +127,7 @@ Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (20
 **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. [Student Travel Award] 
 
 **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. [Best Oral Presentation]
+
 
 ## Conference Posters
 Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
@@ -156,6 +159,7 @@ Hayward, W.G., Lao, J., Cheng, Z., Crookes, K., **Liu, T.T.**, & Caldara. R. (20
 **Liu, T.T.**, & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
 
 Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
+
 
 ## REPRESENTATIVE MEDIA COVERAGE
 1. “The Brain That Remade Itself” OneZero — Medium 
@@ -285,7 +289,6 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 ```
 
 ## EDITORIAL SERVICE
-
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
 Ad hoc Reviewer, Visual Cognition
