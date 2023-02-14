@@ -49,7 +49,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## PUBLICATIONS
-## Peer-reviewed articles & manuscript under review or in preparation
+## Peer-reviewed articles 
 1.	**Liu, T.T.**#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 2.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. 
@@ -102,15 +102,15 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Recently submitted Conference Abstracts
-Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
+1. Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
 
-**Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
+2. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
 
-Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023.
+3. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023.
 
 
 ## Conference Talks
-**Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
+1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
 **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
 
@@ -130,7 +130,7 @@ Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (20
 
 
 ## Conference Posters
-Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
+1. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
 Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. [Helena Bachmann received VSS 2022 Travel Award]
 
