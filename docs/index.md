@@ -188,6 +188,7 @@ Live podcast: 如何停止自我否定，摆脱「骗子综合症」？（How to
 
 
 ## HONORS, AWARDS & FELOWSHIPS
+```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
@@ -219,9 +220,10 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
 
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
-
+```
 
 ## TEACHING EXPERIENCE AND CERTIFICATES
+```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
 		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research
 		National Institutes of Mental Health
@@ -260,17 +262,24 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
-
+```
 
 ## MENTORING EXPERIENCE
+```
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		 
 2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 
-	Jason Fu (2018-2021, now MD student at New York Medical School)
+		Jason Fu (2018-2021)
+		Now MD student at New York Medical School)
 
-	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
+		Helena Bachmann (2021-Present),
+		Being accepted into a few neuroscience graduate programs (decision pending)
+		VSS 2022 Early Career Scientist Travel Grant
+		2022 NIH Postbac Poster Day Outstanding Poster Award
+		2022 NIMH Three-Minute-Talk Winner
+		2022 NIMH Trainee Travel Award
 
 
 ## EDITORIAL SERVICE
@@ -281,6 +290,7 @@ Ad hoc Reviewer, Visual Cognition
 Ad hoc Reviewer, Neuropsychologia
 
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+
 
 
 ## OTHER SERVICE
@@ -298,6 +308,7 @@ Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong K
 2008 – 2011	Student Ambassador, University of Hong Kong
 
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
+ 
  
  
 ## Professional Affiliations 					
