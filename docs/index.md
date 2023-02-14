@@ -182,9 +182,11 @@ Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face 
 As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. 
 In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
 
-Book: 亚优秀症候群（Imposter Syndrome） https://www.zhihu.com/pub/book/19551075
+eBook: 亚优秀症候群（Imposter Syndrome) 
+[Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
 
-Live podcast: 如何停止自我否定，摆脱「骗子综合症」？（How to cvercome imposter feelings?）https://www.zhihu.com/lives/1035484758083346432
+Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to cvercome imposter feelings?）
+[Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
 
 ## HONORS, AWARDS & FELOWSHIPS
@@ -280,7 +282,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 		2022 NIH Postbac Poster Day Outstanding Poster Award
 		2022 NIMH Three-Minute-Talk Winner
 		2022 NIMH Trainee Travel Award
-
+```
 
 ## EDITORIAL SERVICE
 
