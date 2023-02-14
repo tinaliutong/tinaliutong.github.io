@@ -283,6 +283,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutoria
 
 
 ## EDITORIAL SERVICE
+
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
 Ad hoc Reviewer, Visual Cognition
@@ -294,6 +295,7 @@ Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behr
 
 
 ## OTHER SERVICE
+```
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon 
@@ -308,8 +310,13 @@ Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong K
 2008 – 2011	Student Ambassador, University of Hong Kong
 
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
- 
+```
  
  
 ## Professional Affiliations 					
-Society for Neuroscience, Vision Sciences Society, Cognitive Computational Neuroscience, Organization for Human Brain Mapping, Optica Fall Vision Meeting (formerly OSA) 
+Society for Neuroscience
+Vision Sciences Society
+Cognitive Computational Neuroscience
+Organization for Human Brain Mapping
+Optica Fall Vision Meeting (formerly OSA) 
+
