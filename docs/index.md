@@ -183,7 +183,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, this idea came from René Magritte's painting, This is Not a Pipe.
 
 Since I started writing cognitive psychology and the brain for the public in 2015, my popular science blog has more than 110,000 followers to date.
 I have ongoing collaboration with editors at Zhihu, a forum website in Chinese similar to Quora in English. 
