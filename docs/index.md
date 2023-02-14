@@ -177,6 +177,15 @@ Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face 
 
 7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
 
+## WRITING FOR THE PUBLIC
+```
+As an amateur (neuro)science writer, I write under my pen name, This Is Not Tina. In case you are curious, the idea came from René Magritte's painting, This is Not a Pipe.
+
+Book: 亚优秀症候群（Imposter Syndrome） https://www.zhihu.com/pub/book/19551075
+
+Live podcast: 如何停止自我否定，摆脱「骗子综合症」？（How to cvercome imposter feelings?）https://www.zhihu.com/lives/1035484758083346432
+
+
 
 ## HONORS, AWARDS & FELOWSHIPS
 ```
@@ -216,26 +225,43 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 ## TEACHING EXPERIENCE AND CERTIFICATES
 ```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
-		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research, National Institutes of Mental Health
+		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research
+		National Institutes of Mental Health
 
-Fall 2017	Biological Foundations of Behavior (CMU) 
-		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, coordinated undergrad TAs in grading
+Fall 2017	Biological Foundations of Behavior (CMU), Teaching Assistant
+		Guest lectured (The Visual System)
+		Assisted with dissection labs
+		Held office hours
+		Coordinated undergrad TAs in grading
 
-Fall 2016	Cognitive Psychology (CMU) 
-		Teaching Assistant: guest lectured, held office hours, coordinated undergrad TAs in grading, led recitations 
+Fall 2016	Cognitive Psychology (CMU), Teaching Assistant
+		Guest lectured
+		Held office hours
+		Coordinated undergrad TAs in grading
+		Led recitations 
 
-Spring 2015	Social Psychology (CMU) 
-		Teaching Assistant: guest lectured, held office hours, led recitation sections, graded essays and exams
+Spring 2015	Social Psychology (CMU), Teaching Assistant
+		Guest lectured ("Fixed vs. Growth: The Two Basic Mindsets")
+		Held office hours
+		Led recitation sections
+		Graded essays and exams
 
-Fall 2015	Biological Foundations of Behavior (CMU) 
-		Teaching Assistant: guest lectured, assisted with dissection labs, held office hours, led recitations, coordinated undergrad TAs in 
-		grading
+Fall 2015	Biological Foundations of Behavior (CMU), Teaching Assistant
+		Guest lectured  
+		Assisted with dissection labs
+		Held office hours
+		Led recitations
+		Coordinated undergrad TAs in grading
 
-Fall 2012	Introduction to Quantitative Methods in Psychology (HKU)
-		Teaching Assistant: led weekly tutorials, graded exams, held office hours
+Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Teaching Assistant
+		Led weekly tutorials
+		Graded exams
+		Held office hours
 
-Fall 2011	Foundations of Cognitive Science (HKU)
-		Teaching Assistant: designed and led weekly tutorials, graded exams, held office hours
+Fall 2011	Foundations of Cognitive Science (HKU), Teaching Assistant and Tutorial Coordinator
+		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
+		Graded exams
+		Held office hours
 ```
 
 ## MENTORING EXPERIENCE
@@ -249,6 +275,7 @@ Fall 2011	Foundations of Cognitive Science (HKU)
 
 	Helena Bachmann (2021-Present, VSS 2022 Early Career Scientist Travel Grant, 2022 NIH Postbac Poster Day Outstanding Poster Award, 2022 NIMH Three-Minute-Talk Winner, 2022 NIMH Trainee Travel Award)
 ```
+
 ## EDITORIAL SERVICE
 ```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
