@@ -237,13 +237,13 @@ Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Onli
 		National Institutes of Mental Health
 
 Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
-		Guest lectured ("The Visual System")
+		Guest lectured ("Hemispheric Differences")
 		Assisted with dissection labs (Eye Dissection & Brain Dissection)
 		Held office hours
 		Coordinated undergrad TAs in grading
 
 Fall 2016	Cognitive Psychology (CMU), Course instructor: Eric Thiessen
-		Guest lectured (Face)
+		Guest lectured ("Face perception")
 		Held office hours
 		Coordinated undergrad TAs in grading
 		Led recitations 
@@ -255,7 +255,7 @@ Spring 2015	Social Psychology (CMU), Course instructor: Vicki Helgeson
 		Graded essays and exams
 
 Fall 2015	Biological Foundations of Behavior (CMU), Course instructor: Marlene Behrmann
-		Guest lectured (The Visual System) 
+		Guest lectured ("The Visual System") 
 		Assisted with dissection labs (Eye Dissection & Brain Dissection)
 		Held office hours
 		Led recitations
@@ -282,7 +282,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Jason Fu (2018-2021)
 		Now MD student at New York Medical School)
 
-		Helena Bachmann (2021-Present),
+		Helena Bachmann (2021-Present)
 		Being accepted into a few neuroscience graduate programs (decision pending)
 		VSS 2022 Early Career Scientist Travel Grant
 		2022 NIH Postbac Poster Day Outstanding Poster Award
@@ -322,8 +322,12 @@ Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
  
 ## Professional Affiliations 					
 Society for Neuroscience
+
 Vision Sciences Society
+
 Cognitive Computational Neuroscience
+
 Organization for Human Brain Mapping
+
 Optica Fall Vision Meeting (formerly OSA) 
 
