@@ -1,4 +1,4 @@
-## Tong (Tina) Liu 劉 彤
+## Tong (Tina) Liu    劉彤
 ## BSocSc (First Class Honors), MPhil, PhD
 
 #### [Link to Google Scholar profile](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en).
