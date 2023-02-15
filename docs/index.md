@@ -186,7 +186,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
 
 Since I started writing cognitive psychology and the brain for the public in 2015, my popular science blog has more than 110,000 followers to date.
-I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese similar to Quora in English and evolved to have their own publishing group. 
+I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese (similar to Quora in English) and now became Zhihu Inc. (NASDAQ: ZH)
 
 1. eBook: 亚优秀症候群（Imposter Syndrome) 
 [Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
@@ -194,7 +194,8 @@ I have an ongoing collaboration with editors at Zhihu, which started as a forum 
 2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to overcome imposter feelings?）
 [Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
-
+ 
+ 
 ## HONORS, AWARDS & FELOWSHIPS
 ```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
