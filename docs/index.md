@@ -101,7 +101,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-## Recently submitted Conference Abstracts
+## Recently submitted conference abstracts
 1. Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
 
 2. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
