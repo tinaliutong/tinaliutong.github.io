@@ -49,15 +49,17 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## PUBLICATIONS
-## Peer-reviewed articles 
+## Manuscript under review or in prep
+4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (minor revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
+
+3.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (under review). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
+
 1.	**Liu, T.T.**#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 2.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. 
 
-3.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (under review). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
 
-4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (minor revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
-
+## Peer-reviewed articles 
 5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (accepted). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. (#co-first authors with equal contribution)
 
 6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7)
