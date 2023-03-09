@@ -245,7 +245,7 @@ Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
 		Held office hours
 		Coordinated undergrad TAs in grading
 
-Fall 2016	Cognitive Psychology (CMU), Course instructor: Eric Thiessen
+Fall 2016	Cognitive Psychology (CMU), Course instructor: Erik Thiessen
 		Guest lectured ("Face perception")
 		Held office hours
 		Coordinated undergrad TAs in grading
