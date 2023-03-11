@@ -96,7 +96,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2. Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
 
-3. Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institutes of Mental Health, National Institutes of Health, Bethesda, MD.
+3. Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institute of Mental Health, National Institutes of Health, Bethesda, MD.
 
 4. Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
 
