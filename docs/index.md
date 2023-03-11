@@ -201,7 +201,7 @@ I have an ongoing collaboration with editors at Zhihu, which started as a forum 
  
 ## HONORS, AWARDS & FELOWSHIPS
 ```
-September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institutes of Mental Health, National Institutes of Health
+September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institute of Mental Health, National Institutes of Health
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
 
@@ -237,12 +237,13 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 ## TEACHING EXPERIENCE AND CERTIFICATES
 ```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
-		Office of Intramural Training and Education & Office of the Director in the Office of Intramural Research
-		National Institutes of Mental Health
+		Office of Intramural Training and Education & 
+		Office of the Director in the Office of Intramural Research
+		National Institute of Mental Health
 
 Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
-		Guest lectured ("Hemispheric Differences")
-		Assisted with dissection labs (Eye Dissection & Brain Dissection)
+		Guest lectured ("Hemispheric differences")
+		Assisted with dissection labs (Eye dissection & brain dissection)
 		Held office hours
 		Coordinated undergrad TAs in grading
 
@@ -253,14 +254,14 @@ Fall 2016	Cognitive Psychology (CMU), Course instructor: Erik Thiessen
 		Led recitations 
 
 Spring 2015	Social Psychology (CMU), Course instructor: Vicki Helgeson
-		Guest lectured ("Fixed vs. Growth: The Two Basic Mindsets")
+		Guest lectured ("Fixed vs. growth: the two basic mindsets")
 		Held office hours
 		Led recitation sections
 		Graded essays and exams
 
 Fall 2015	Biological Foundations of Behavior (CMU), Course instructor: Marlene Behrmann
-		Guest lectured ("The Visual System") 
-		Assisted with dissection labs (Eye Dissection & Brain Dissection)
+		Guest lectured ("The visual system") 
+		Assisted with dissection labs (Eye dissection & brain dissection)
 		Held office hours
 		Led recitations
 		Coordinated undergrad TAs in grading
