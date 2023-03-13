@@ -50,14 +50,19 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ## PUBLICATIONS
 ## Manuscript under review or in prep
-4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (minor revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
+4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
 
-3.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (under review). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
+3.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (under revision). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
 
 1.	**Liu, T.T.**#, Granovetter, M.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 2.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. 
 
+4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (*co-first authors with equal contribution)
+
+6.	**Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
+
+7.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.  
 
 ## Peer-reviewed articles 
 5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (accepted). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. (#co-first authors with equal contribution)
@@ -103,8 +108,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-## Recently submitted conference abstracts
-1. Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023.
+## Recently submitted/accepted conference abstracts
+1. Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract accepted into OHBM 2023. 
 
 2. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023.
 
