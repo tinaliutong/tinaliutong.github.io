@@ -58,7 +58,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. 
 
-4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (*co-first authors with equal contribution)
+4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (#co-first authors with equal contribution)
 
 6.	**Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
 
