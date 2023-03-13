@@ -50,7 +50,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 ## PUBLICATIONS
 ## Manuscript under review or in prep
-4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (under revision). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
+4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (revision submitted). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
 
 3.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (under revision). Emotion and anxiety interact to bias spatial attention. (#co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
 
