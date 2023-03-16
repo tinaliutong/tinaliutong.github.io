@@ -239,6 +239,21 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
 ```
 
+## GRANT WRITING EXPERIENCE 
+```
+2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
+		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
+		Impact Score: 35 
+		I know it's hard to believe but the score got slightly worse despite the inclusion of a new high-impact publication, the incorporation 			of new preliminary data, and the addition of a clinical co-mentor to address all the concerns from the previous round. 
+		C'est la vie!
+		
+2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
+		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
+		Impact Score: 33
+
+2020 		NIMH Grant Writing Workshop Series
+```
+
 ## TEACHING EXPERIENCE AND CERTIFICATES
 ```
 Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
