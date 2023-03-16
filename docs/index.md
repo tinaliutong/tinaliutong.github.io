@@ -244,12 +244,13 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
-		I know it's hard to believe but the score got slightly worse despite the inclusion of a new high-impact publication, the incorporation 			of new preliminary data, and the addition of a clinical co-mentor to address all the concerns from the previous round. 
-		C'est la vie!
+		(I understand that it may be difficult to comprehend, but despite the inclusion of a new high-impact publication, the incorporation of new preliminary data, and the addition of a clinical co-mentor to address all the concerns from the previous round, the score has actually worsened slightly.
+		C'est la vie!)
 		
 2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 33
+		(It's a borderline score according to the Program Officer, so I pressed on with revision and resubmission.)
 
 2020 		NIMH Grant Writing Workshop Series
 ```
