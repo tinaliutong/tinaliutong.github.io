@@ -168,6 +168,42 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 15. Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
 
 
+
+## REPRESENTATIVE MEDIA COVERAGE
+1. “The Brain That Remade Itself” OneZero — Medium 
+[https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff](https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff)
+
+2. “When surgeons removed one sixth of a child's brain, here's what happened.” — CNN
+[https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html](https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html)
+
+3. “A 12-year-old had one-sixth of his brain removed. He feels ‘perfectly normal.’” — Washington Post
+[https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/](https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/)
+
+4. “Boy recovers normal life after losing big part of his brain” — NBC News 
+[https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731](https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731)
+
+5. “A child lost a sixth of his brain, then made an amazing comeback.” — PBS News Hour
+[https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack](https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack)
+
+6. “Epileptic Girl Who Had Half Her Brain Removed Can Read After Organ Rewired Itself” — Newsweek [https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797](https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797)
+
+7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
+
+
+## WRITING FOR THE PUBLIC
+As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
+
+Since I started writing about cognitive psychology and the brain for the public in 2015, my popular science blog has garnered more than 111,000 followers, 13,015 likes, 45,218 favorites, and 6 professional endorsements.
+
+I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese (similar to Quora in English) and now became Zhihu Inc. (NASDAQ: ZH)
+
+1. eBook: 亚优秀症候群（Imposter Syndrome) 
+[Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
+
+2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to overcome imposter feelings?）
+[Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
+
+
  
 ## HONORS, AWARDS & FELOWSHIPS
 ```
@@ -301,6 +337,12 @@ Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behr
 
 ## OTHER SERVICE
 ```
+2023 - Present  Certified Youth Mental Health First Aider, Mental Health First Aid - National Council for Mental Wellbeing
+
+2021 - 2023	Certified CPR Basic Life Support, American Heart Association
+
+2018 - 2020	Certified CPR Lay Responder Heart Saver, American Heart Association
+
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
 2016 – 2017	Graduate Student Representative, American Psychological Association of Graduate Students (APAGS), Psychology Department, Carnegie Mellon 
@@ -329,38 +371,4 @@ Organization for Human Brain Mapping
 
 Optica Fall Vision Meeting (formerly OSA) 
 
-
-## REPRESENTATIVE MEDIA COVERAGE
-1. “The Brain That Remade Itself” OneZero — Medium 
-[https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff](https://onezero.medium.com/the-brain-that-remade-itself-bcc7b3a43cff)
-
-2. “When surgeons removed one sixth of a child's brain, here's what happened.” — CNN
-[https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html](https://www.cnn.com/2018/07/31/health/surgeons-remove-part-of-childs-brain-case-study/index.html)
-
-3. “A 12-year-old had one-sixth of his brain removed. He feels ‘perfectly normal.’” — Washington Post
-[https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/](https://www.washingtonpost.com/news/to-your-health/wp/2018/08/02/a-12-year-old-had-one-sixth-of-his-brain-removed-he-feels-perfectly-normal/)
-
-4. “Boy recovers normal life after losing big part of his brain” — NBC News 
-[https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731](https://www.nbcnews.com/health/health-news/boy-recovers-normal-life-after-losing-big-part-his-brain-n896341?cid=public-rss_20180731)
-
-5. “A child lost a sixth of his brain, then made an amazing comeback.” — PBS News Hour
-[https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack](https://www.pbs.org/newshour/science/this-child-lost-a-sixth-of-his-brain-the-rest-learned-to-pick-up-the-slack)
-
-6. “Epileptic Girl Who Had Half Her Brain Removed Can Read After Organ Rewired Itself” — Newsweek [https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797](https://www.newsweek.com/epileptic-girl-who-had-half-her-brain-removed-can-read-after-organ-rewired-itself-1441797)
-
-7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
-
-
-## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
-
-Since I started writing about cognitive psychology and the brain for the public in 2015, my popular science blog has garnered more than 111,000 followers, 13,015 likes, 45,218 favorites, and 6 professional endorsements.
-
-I have an ongoing collaboration with editors at Zhihu, which started as a forum website in Chinese (similar to Quora in English) and now became Zhihu Inc. (NASDAQ: ZH)
-
-1. eBook: 亚优秀症候群（Imposter Syndrome) 
-[Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
-
-2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to overcome imposter feelings?）
-[Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
