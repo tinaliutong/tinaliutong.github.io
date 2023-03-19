@@ -245,14 +245,17 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
-		(I understand that it may be difficult to comprehend, but despite the inclusion of a new high-impact publication, the incorporation of new preliminary data, and the addition of a clinical co-mentor to address all the concerns from the previous round, the score has actually worsened slightly.
-		C'est la vie!)
+_		I understand that it may be difficult to comprehend that the impact score has actually worsened slightly,
+		despite the inclusion of a new high-impact publication, the incorporation of new preliminary data, 
+		and the addition of a clinical co-mentor to address all the concerns from the previous round.
+		C'est la vie!_
 		
 2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
-		Impact Score: 33
-		(It's a borderline score according to the Program Officer, so I pressed on with revision and resubmission.)
-
+		Impact Score: 33 
+_		It's a borderline score according to the Program Officer, 
+		so I pressed on with revision and resubmission.
+_
 2020 		NIMH Grant Writing Workshop Series
 ```
 
@@ -303,24 +306,28 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-		 
-2018 – Present	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Jason Fu (2018-2021)
-		Now MD student at New York Medical School
 
-		Helena Bachmann (2021-Present)
+2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Incoming mentee: TBA :-) 		
+		
+2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
+		Accepted the offer from East Carolina University (Clinical Health Psychology Graduate Program)
+
+2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Helena Bachmann
 		Being accepted into a few neuroscience/psychology graduate programs (decision pending)
 		VSS 2022 Early Career Scientist Travel Grant
 		2022 NIH Postbac Poster Day Outstanding Poster Award
 		2022 NIMH Three-Minute-Talk Winner
 		2022 NIMH Trainee Travel Award
 		
-		Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Accepted the offer from East Carolina University (Clinical Health Psychology Graduate Program)
-
+2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Jason Fu 
+		Now MD student at New York Medical School
+		
 2015 – 2017 	Mentor, Carnegie Mellon University 
-		Adam Dickter (now MD student at University of Rochester Medical School)
+		Mentee: Adam Dickter (now MD student at University of Rochester Medical School)
 		
 ```
 
@@ -341,7 +348,7 @@ Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behr
 
 2021 - 2023	Certified CPR Basic Life Support, American Heart Association
 
-2018 - 2020	Certified CPR Lay Responder Heart Saver, American Heart Association
+2018 - 2020	Certified CPR Lay Responder, American Heart Association
 
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
