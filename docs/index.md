@@ -245,17 +245,17 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
-_		I understand that it may be difficult to comprehend that the impact score has actually worsened slightly,
+		It's kind of a bummer that the impact score has actually worsened slightly,
 		despite the inclusion of a new high-impact publication, the incorporation of new preliminary data, 
 		and the addition of a clinical co-mentor to address all the concerns from the previous round.
-		C'est la vie!_
+		C'est la vie!
 		
 2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 33 
-_		It's a borderline score according to the Program Officer, 
+		It's a borderline score according to the Program Officer, 
 		so I pressed on with revision and resubmission.
-_
+
 2020 		NIMH Grant Writing Workshop Series
 ```
 
@@ -304,9 +304,6 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 ## MENTORING EXPERIENCE
 ```
-2021 – Present	Mentor, Action Potential Advising Program 
-		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Incoming mentee: TBA :-) 		
 		
@@ -322,6 +319,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		2022 NIMH Three-Minute-Talk Winner
 		2022 NIMH Trainee Travel Award
 		
+2021 – Present	Mentor, Action Potential Advising Program 
+		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now MD student at New York Medical School
