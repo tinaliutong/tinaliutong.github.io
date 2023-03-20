@@ -139,9 +139,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Conference Posters
 1. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
-2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Travel Award]**
+2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Early Career Scientist Travel Grant]**
 
-3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received Outstanding Poster Award]**
+3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received 2022 NIH Postbac Poster Day Outstanding Poster Award]**
 
 4. Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
 
