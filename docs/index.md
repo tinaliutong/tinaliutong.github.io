@@ -313,11 +313,11 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Accepted the offer from East Carolina University (Clinical Health Psychology Graduate Program)
+		Incoming clinical health psychology grad student at East Carolina University
 
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Helena Bachmann
-		Being accepted into a few neuroscience/psychology graduate programs (decision pending)
+		Mentee: Helena Bachmann 
+		Incoming neuroscience grad student at Columbia University
 		VSS 2022 Early Career Scientist Travel Grant
 		2022 NIH Postbac Poster Day Outstanding Poster Award
 		2022 NIMH Three-Minute-Talk Winner
@@ -328,10 +328,11 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
-		Now MD student at New York Medical School
+		Now MD student at New York Medical College
 		
 2015 – 2017 	Mentor, Carnegie Mellon University 
-		Mentee: Adam Dickter (now MD student at University of Rochester Medical School)
+		Mentee: Adam Dickter 
+		Now MD student at University of Rochester Medical School
 		
 ```
 
