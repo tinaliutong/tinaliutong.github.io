@@ -319,10 +319,10 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Mentee: Helena Bachmann 
 		Incoming neuroscience grad student at Columbia University
 		VSS 2022 Early Career Scientist Travel Grant
-		2022 NIH Postbac Poster Day Outstanding Poster Award
-		2022 NIMH Three-Minute-Talk Winner
+		2022 NIH Postbac Poster Day Outstanding Poster Award		
 		2022 NIMH Trainee Travel Award
-		
+		2022 NIMH Three-Minute-Talk Winner [Video: https://youtu.be/HUvFmM6L4iU](https://youtu.be/HUvFmM6L4iU)
+
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 
