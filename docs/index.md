@@ -321,7 +321,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Future MD/PhD student
 		VSS 2023 Early Career Scientist Travel Grant
 		2022 NIH Postbac Poster Day Outstanding Poster Award
-		2022 Cold Spring Habor Summer Course Fellowship, "Schizophrenia & Related Disorders"
+		2022 Helmsley Scholarship for Cold Spring Harbor Course "Schizophrenia and Related Disorders" 
 		
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
