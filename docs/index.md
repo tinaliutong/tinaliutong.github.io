@@ -309,12 +309,20 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## MENTORING EXPERIENCE
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Incoming mentee: TBA :-) 		
+		Incoming mentee: Bing Li
+		Accepted into Princeton Neuroscience Institute graduate program. Deferred enrollment to 2024. 
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Incoming clinical health psychology grad student at East Carolina University
 
+2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Elena Younhye Ock
+		Future MD/PhD student
+		VSS 2023 Early Career Scientist Travel Grant
+		2022 NIH Postbac Poster Day Outstanding Poster Award
+		2022 Cold Spring Habor Summer Course Fellowship
+		
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
 		Incoming neuroscience grad student at Columbia University
