@@ -315,6 +315,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Incoming clinical health psychology grad student at East Carolina University
+		2021 NIMH Three-Minute-Talk Finalist
 
 2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock
@@ -337,10 +338,14 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now MD student at New York Medical College
+		2022 National Medical Fellowship Primary Care Leadership Program
+		Fellowship location: Boston 
+		Focus: Substance abuse disorders and behavioral health integration
 		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
 		Now MD student at University of Rochester Medical School
+		2015 Ireland Undergraduate Research Awards 
 		
 ```
 
