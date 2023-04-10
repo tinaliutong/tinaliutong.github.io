@@ -316,6 +316,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Incoming clinical health psychology grad student at East Carolina University
 		2021 NIMH Three-Minute-Talk Finalist
+		2021 NIMH Office of Fellowship Travel Award 
 
 2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock
