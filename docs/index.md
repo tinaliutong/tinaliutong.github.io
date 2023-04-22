@@ -197,7 +197,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## WRITING FOR THE PUBLIC
 As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
 
-In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). To date, my popular science blog has attracted over 111,800 followers, 37,591 likes, 45,402 favorites, and 6 professional endorsements.  
+In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 6 professional endorsements.  
 
 Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 articles I have written. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 
