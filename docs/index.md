@@ -201,14 +201,17 @@ In 2015, I began writing about cognitive psychology and the brain for the public
 
 Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 articles I have written. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 
-I have an ongoing collaboration with editors at Zhihu.
+I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
 
-1. eBook: 亚优秀症候群（Imposter Syndrome) 
+1. eBook: Imposter Syndrome (亚优秀症候群) 
 [Link: https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
 
-2. Live podcast: 如何停止自我否定，摆脱「骗子综合症」?（How to overcome imposter feelings?）
+2. Live podcast: How to overcome imposter feelings? (如何停止自我否定，摆脱「骗子综合症」?）
 [Link: https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
 
+3. Audiobook narration and interpretation: 
+Make It Stick: The Science of Successful Learning (刘彤·《认知天性》精读班): 
+[https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D)
 
  
 ## HONORS, AWARDS & FELOWSHIPS
@@ -312,7 +315,8 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Incoming mentee: Bing Li
-		Accepted into Princeton Neuroscience Institute graduate program. Deferred enrollment to 2024. 
+		Accepted into Princeton Neuroscience Institute graduate program. 
+		Deferred enrollment to 2024. 
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
