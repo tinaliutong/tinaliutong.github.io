@@ -8,15 +8,10 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 
 ## EMPLOYMENT
 ```
-2023.6 –		National Institute of Mental Health – Bethesda, MD, USA
-			Research Fellow
-			Advisor: Dr. Elisha Merriam
-
 2018.7 – Present	National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
-		
 		
 ## EDUCATION & TRAINING
 ```
@@ -46,7 +41,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 			Bachelor of Social Sciences (First Class Honors) 
 			Major in Psychology, Minor in Politics and Public Administration 
 ```
-
 
 ## PUBLICATIONS
 ## Manuscript under review or in prep
