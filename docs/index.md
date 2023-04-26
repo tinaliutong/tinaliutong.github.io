@@ -56,9 +56,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 7.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.  
 
-## Preregisteration in progress 
-1.	Hao, Y & **Liu, T.T.** (in preparation). The relationship between emotional attention, anxiety, and socioeconomic status.
-
 
 ## Peer-reviewed articles 
 4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (accepted). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [Preprint: https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1](https://www.medrxiv.org/content/10.1101/2022.11.07.22282025v1)
