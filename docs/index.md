@@ -193,8 +193,8 @@ Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 
 
 I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
 
-1. eBook (2017): Imposter Syndrome 「亚优秀症候群」<br />
-[https://www.zhihu.com/pub/book/19551075]<br /> (https://www.zhihu.com/pub/book/19551075)
+1. eBook (2017): Imposter Syndrome 「亚优秀症候群」<br/>
+[https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
 
 2. Live podcast (2018): How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」? <br/>
 [https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
@@ -210,6 +210,9 @@ Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bant
 5. Audiobook narration and interpretation in 2022: 《认知天性》精读班 <br/>
 Make It Stick: The Science of Successful Learning.<br/>
 [https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D)
+
+6. It was not a bad year because of you: [https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf)
+(This "book" chronicles my casual correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for an easy and enjoyable read :)
 
  
 ## HONORS, AWARDS & FELOWSHIPS
