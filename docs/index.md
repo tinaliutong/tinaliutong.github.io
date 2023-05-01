@@ -194,24 +194,24 @@ Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 
 I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
 
 1. eBook (2017): Imposter Syndrome 「亚优秀症候群」<br/>
-[https://www.zhihu.com/pub/book/19551075](https://www.zhihu.com/pub/book/19551075)
+[link](https://www.zhihu.com/pub/book/19551075)
 
 2. Live podcast (2018): How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」? <br/>
-[https://www.zhihu.com/lives/1035484758083346432](https://www.zhihu.com/lives/1035484758083346432)
+[link](https://www.zhihu.com/lives/1035484758083346432)
 
 3. Zhihu Book Club recommendation in 2019: 「终身成长」<br/>
 Dweck, C. S. (2006). Mindset: The new psychology of success. Random house. 
-[https://www.zhihu.com/remix/instabooks/971821620297498624](https://www.zhihu.com/remix/instabooks/971821620297498624)
+[link](https://www.zhihu.com/remix/instabooks/971821620297498624)
 
 4. Zhihu Book Club recommendation in 2020: 「情商」<br/>
 Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bantom books. 
-[https://www.zhihu.com/remix/instabooks/1087142232628391936](https://www.zhihu.com/remix/instabooks/1087142232628391936)
+[link](https://www.zhihu.com/remix/instabooks/1087142232628391936)
 
 5. Audiobook narration and interpretation in 2022: 《认知天性》精读班 <br/>
 Make It Stick: The Science of Successful Learning.<br/>
-[https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D)
+[link](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D)
 
-6. Liu, T.T. (2022). It was not a bad year because of you: [Not a bad year](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+6. Liu, T.T. (2022). It was not a bad year because of you: [link](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 (This is my debut book in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read. :)
 
  
