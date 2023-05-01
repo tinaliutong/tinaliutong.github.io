@@ -211,8 +211,8 @@ Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bant
 Make It Stick: The Science of Successful Learning.<br/>
 [https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D)
 
-6. It was not a bad year because of you: [https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf)
-(This "book" chronicles my casual correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for an easy and enjoyable read :)
+6. Liu, T.T. (2022). It was not a bad year because of you: [Not a bad year](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+(This is my debut book in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read. :)
 
  
 ## HONORS, AWARDS & FELOWSHIPS
