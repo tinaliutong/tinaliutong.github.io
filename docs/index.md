@@ -209,7 +209,7 @@ Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The 
 
 B. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
-B1. Liu, T.T. (2021). [It was not a bad year because of you](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+B1. [It was not a bad year because of you](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 
  
 ## HONORS, AWARDS & FELOWSHIPS
@@ -251,8 +251,9 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
 		It's kind of a bummer that the impact score has actually worsened slightly,
-		despite the inclusion of a new high-impact publication, the incorporation of new preliminary data, 
-		and the addition of a clinical co-mentor to address all the concerns from the previous round.
+		despite the inclusion of a new high-impact publication, 
+		the incorporation of new preliminary data, 
+		and the addition of a clinical co-mentor to address the concerns from the previous round.
 		C'est la vie!
 		
 2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
@@ -302,7 +303,8 @@ Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Course instr
 		Held office hours
 
 Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
-		Designed and led weekly tutorials (covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
+		Designed and led weekly 1-hour tutorials 
+		(covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
 ```
@@ -353,6 +355,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 
 ## EDITORIAL SERVICE
+
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
 Ad hoc Reviewer, Behavioural Brain Research, Visual Cognition, Neuropsychologia, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
