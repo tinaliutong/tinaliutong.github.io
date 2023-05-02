@@ -206,47 +206,46 @@ Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bant
 A5. Audiobook narration and interpretation in 2022: 《认知天性》精读班 [link](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
 Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
  <br/>
- <br/>
- 
-B. The following is my debut "book" in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
+
+B. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
 B1. Liu, T.T. (2021). It was not a bad year because of you. [link](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 
  
 ## HONORS, AWARDS & FELOWSHIPS
-```
+
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institute of Mental Health, National Institutes of Health
-
+ <br/>
 2018 – Present	Intramural Research Training Award, National Institutes of Health
-
+ <br/>
 Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
-
+ <br/>
 2016 – 2017	Presidential Fellowship, Carnegie Mellon University 
-
+ <br/>
 Summer 2015	Kavli Summer Institute in Cognitive Neuroscience Fellowship
-
+ <br/>
 May 2015	Student Travel Award, Vision Sciences Society
-
+ <br/>
 Summer 2014	Center for Brains, Minds, and Machines Summer School Fellowship
-
+ <br/>
 2013 – 2014 	Ungerleider Carnegie Prize Fellowship, Carnegie Mellon University 
-
+ <br/>
 July 2013	Student Travel Award, Asia-Pacific Conference on Vision 
-
+ <br/>
 June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong 
-
+ <br/>
 2011 – 2013 	Conference Grants for Research Postgraduate Students, University of Hong Kong
-
+ <br/>
 2011 – 2013 	Postgraduate Scholarships, University of Hong Kong  
-
+ <br/>
 2011		BSocSc awarded with First Class Honors, University of Hong Kong
-
+ <br/>
 2010		Global Citizenship Exchange Studies Scholarship at University of Illinois at Urbana-Champaign
-
+ <br/>
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
-
+ <br/>
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
-```
+
 
 ## GRANT WRITING EXPERIENCE 
 ```
