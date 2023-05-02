@@ -185,13 +185,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I write under my pen name, This is Not Tina. In case you are curious, this idea was inspired by René Magritte's painting, This is Not a Pipe.
+As an amateur (neuro)science writer, I sometimes write under my pen name, This is Not Tina. In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 
-In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 6 professional endorsements.  
-
-Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 articles I have written. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
-
-A. I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
+A. My ongoing collaborations with editors at Zhihu.
 
 A1. eBook (2017): [Imposter Syndrome「亚优秀症候群」](https://www.zhihu.com/pub/book/19551075)
 
@@ -203,13 +199,18 @@ Dweck, C. S. (2006). Mindset: The new psychology of success. Random house.
 A4. Zhihu Book Club recommendation in 2019: [「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
 Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bantom books. 
 
-A5. Audiobook narration and interpretation in 2022: [《认知天性》精读班 ](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
+
+B. My recent collaborations with Cheers Publishing, one of the top publishing groups in China.
+
+B1. Audiobook narration and interpretation in 2022: [「认知天性」](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
 Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
- <br/>
 
-B. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
+B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾清除计划」](https://www.cheerspublishing.com/course/detail/1619943380736524288)
 
-B1. [It was not a bad year because of you](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+
+C. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
+
+C1. [It was not a bad year because of you](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 
  
 ## HONORS, AWARDS & FELOWSHIPS
@@ -319,23 +320,24 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Incoming clinical health psychology grad student at East Carolina University
-		2021 NIMH Three-Minute-Talk Finalist
-		2021 NIMH Office of Fellowship Travel Award 
+		2021: NIMH Three-Minute-Talk Finalist
+		2021: NIMH Office of Fellowship Travel Award 
 
 2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock
 		Future MD/PhD student
-		VSS 2023 Early Career Scientist Travel Grant
-		2022 NIH Postbac Poster Day Outstanding Poster Award
-		2022 Helmsley Scholarship for Cold Spring Harbor Course "Schizophrenia and Related Disorders" 
+		2023: VSS Early Career Scientist Travel Grant
+		2022: NIH Postbac Poster Day Outstanding Poster Award
+		2022: Helmsley Scholarship for Cold Spring Harbor Course "Schizophrenia and Related Disorders" 
+		2023: Travel award to attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of Utah.
 		
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
 		Incoming neuroscience grad student at Columbia University
-		VSS 2022 Early Career Scientist Travel Grant
-		2022 NIH Postbac Poster Day Outstanding Poster Award		
-		2022 NIMH Trainee Travel Award
-		2022 NIMH Three-Minute-Talk Winner [Video: https://youtu.be/HUvFmM6L4iU](https://youtu.be/HUvFmM6L4iU)
+		2022: VSS Early Career Scientist Travel Grant
+		2022: NIH Postbac Poster Day Outstanding Poster Award		
+		2022: NIMH Trainee Travel Award
+		2022: NIMH Three-Minute-Talk Winner [Video: https://youtu.be/HUvFmM6L4iU](https://youtu.be/HUvFmM6L4iU)
 
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
@@ -343,14 +345,14 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now MD student at New York Medical College
-		2022 National Medical Fellowship Primary Care Leadership Program
+		2022: National Medical Fellowship Primary Care Leadership Program
 		Fellowship location: Boston 
 		Focus: Substance abuse disorders and behavioral health integration
 		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
 		Now MD student at University of Rochester Medical School
-		2015 Ireland Undergraduate Research Awards 
+		2015: Ireland Undergraduate Research Awards 
 		
 ```
 
