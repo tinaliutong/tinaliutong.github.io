@@ -191,25 +191,26 @@ In 2015, I began writing about cognitive psychology and the brain for the public
 
 Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 articles I have written. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 
-I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
+A. I have ongoing collaborations with editors at Zhihu and Cheers Publishing, two of the top publishing groups in China.
 
-eBook (2017): Imposter Syndrome 「亚优秀症候群」[link](https://www.zhihu.com/pub/book/19551075)
+A1. eBook (2017): Imposter Syndrome 「亚优秀症候群」[link](https://www.zhihu.com/pub/book/19551075)
 
-Live podcast (2018): How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」? [link](https://www.zhihu.com/lives/1035484758083346432)
+A2. Live podcast (2018): How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」? [link](https://www.zhihu.com/lives/1035484758083346432)
 
-Zhihu Book Club recommendation in 2019: 「终身成长」[link](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
+A3. Zhihu Book Club recommendation in 2018: 「终身成长」[link](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
 Dweck, C. S. (2006). Mindset: The new psychology of success. Random house. 
 
-Zhihu Book Club recommendation in 2020: 「情商」[link](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
+A4. Zhihu Book Club recommendation in 2019: 「情商」[link](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
 Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bantom books. 
 
-Audiobook narration and interpretation in 2022: 《认知天性》精读班 [link](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
+A5. Audiobook narration and interpretation in 2022: 《认知天性》精读班 [link](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
 Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
  <br/>
+ <br/>
+ 
+B. The following is my debut "book" in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
-The following is my debut "book" in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read. :)
-
-Liu, T.T. (2022). It was not a bad year because of you. [link](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+B1. Liu, T.T. (2021). It was not a bad year because of you. [link](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 
  
 ## HONORS, AWARDS & FELOWSHIPS
