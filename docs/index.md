@@ -358,8 +358,13 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
-Ad hoc Reviewer, Behavioural Brain Research, Visual Cognition, Neuropsychologia, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+Ad hoc Reviewer, Behavioural Brain Research
 
+Ad hoc Reviewer, Visual Cognition
+
+Ad hoc Reviewer, Neuropsychologia
+
+Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
 
 
 ## OTHER SERVICE
@@ -386,8 +391,8 @@ Summer 2011	Conference Helper, the 7th Asia-Pacific Conference on Vision, Hong K
 Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
 ```
  
- 
-## Professional Affiliations 					
+## Professional Affiliations 	
+
 Society for Neuroscience
 
 Vision Sciences Society
@@ -397,5 +402,3 @@ Cognitive Computational Neuroscience
 Organization for Human Brain Mapping
 
 Optica Fall Vision Meeting (formerly OSA) 
-
-
