@@ -337,7 +337,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		2022: VSS Early Career Scientist Travel Grant
 		2022: NIH Postbac Poster Day Outstanding Poster Award		
 		2022: NIMH Trainee Travel Award
-		2022: NIMH Three-Minute-Talk Winner [Video: https://youtu.be/HUvFmM6L4iU](https://youtu.be/HUvFmM6L4iU)
+		2022: NIMH Three-Minute-Talk Winner (https://youtu.be/HUvFmM6L4iU)
 
 2021 – Present	Mentor, Action Potential Advising Program 
 		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
@@ -345,15 +345,12 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now MD student at New York Medical College
-		2022: National Medical Fellowship Primary Care Leadership Program
-		Fellowship location: Boston 
-		Focus: Substance abuse disorders and behavioral health integration
+		2022: National Medical Fellowship Primary Care Leadership Program (Focus: Substance abuse disorders and behavioral health integration)
 		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
 		Now MD student at University of Rochester Medical School
-		2015: Ireland Undergraduate Research Awards 
-		
+		2015: Ireland Undergraduate Research Awards
 ```
 
 ## EDITORIAL SERVICE
