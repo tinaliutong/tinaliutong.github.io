@@ -355,11 +355,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## EDITORIAL SERVICE
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
-Ad hoc Reviewer, Visual Cognition
-
-Ad hoc Reviewer, Neuropsychologia
-
-Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+Ad hoc Reviewer, Behavioural Brain Research, Visual Cognition, Neuropsychologia, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
 
 
 
