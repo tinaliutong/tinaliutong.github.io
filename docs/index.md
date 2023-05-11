@@ -62,9 +62,11 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (in press). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. (#co-first authors with equal contribution)
 
-6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7) Check out this news story which showcases Jason Fu, my postbac and the study's second author: [SOM Student Jason Fu, SOM Class of 2025, Published His Study in Nature Communications](https://www.nymc.edu/news-and-events/news-archives/study-identifies-pathway-that-processes-emotional-information-in-brain.php)
+6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
+Check out this news story which showcases Jason Fu, my postbac and the study's second author: [SOM Student Jason Fu, SOM Class of 2025, Published His Study in Nature Communications](https://www.nymc.edu/news-and-events/news-archives/study-identifies-pathway-that-processes-emotional-information-in-brain.php)
 
-8.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
+8.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). 
+Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
 
 8.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_. 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
@@ -185,7 +187,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## WRITING FOR THE PUBLIC
-As an amateur (neuro)science writer, I sometimes write under my pen name, This is Not Tina. In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
+To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
 
 A. My ongoing collaborations with editors at Zhihu.
 
@@ -193,24 +197,27 @@ A1. eBook (2017): [Imposter Syndrome「亚优秀症候群」](https://www.zhihu.
 
 A2. Live podcast (2018): [How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」?](https://www.zhihu.com/lives/1035484758083346432)
 
-A3. Zhihu Book Club recommendation in 2018: [「终身成长」](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
-Dweck, C. S. (2006). Mindset: The new psychology of success. Random house. 
+A3. Zhihu Book Club recommendation in 2018: [Growth mindset「终身成长」](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
+I suggested the book "Mindset: The New Psychology of Success" by Carol S. Dweck, published by Random House in 2006. Note: The recording does not feature my voice, but rather that of a professional voice actor. 
+Note: This recording does not feature my voice, but rather that of a professional voice actor.
 
-A4. Zhihu Book Club recommendation in 2019: [「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
-Goleman, D. (2005). Emotional Intelligence: Why It Can Matter More Than IQ. Bantom books. 
-
+A4. Zhihu Book Club recommendation in 2019: [Emotional Intelligence「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
+I recommended the book "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman, published by Bantam Books in 2005.
+Note: This recording does not feature my voice, but rather that of a professional voice actor.
 
 B. My recent collaborations with Cheers Publishing, one of the top publishing groups in China.
 
 B1. Audiobook narration and interpretation in 2022: [「认知天性」](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
 Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
+Note: This recording features my voice. 
 
 B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾清除计划」](https://www.cheerspublishing.com/course/detail/1619943380736524288)
+Note: This recording also features my own voice. 
 
 
 C. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
-C1. [It was not a bad year because of you](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+C1. Creative writing in 2021: [It was not a bad year because of you.](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
 
  
 ## HONORS, AWARDS & FELOWSHIPS
