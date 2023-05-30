@@ -58,27 +58,27 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Peer-reviewed articles 
-4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (in production). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. 
+4.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
 
 5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (in press). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution)
 
-6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
+6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_, 13(1), 6302. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
 Check out this news story which showcases Jason Fu, my postbac and the study's second author: [SOM Student Jason Fu, SOM Class of 2025, Published His Study in Nature Communications](https://www.nymc.edu/news-and-events/news-archives/study-identifies-pathway-that-processes-emotional-information-in-brain.php)
 
 8.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). 
 Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
 
-8.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_. 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
+8.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_, 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
-9.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_. 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
+9.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_, 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
 
-10.	Maallo, A.M.S., Freud, E., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. _NeuroImage_. 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
+10.	Maallo, A.M.S., Freud, E., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. _NeuroImage_, 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
-11.	**Liu, T.T.**#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. _Journal of Neuroscience_. 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
+11.	**Liu, T.T.**#, Freud, E.#, Patterson, C., & Behrmann, M. (2019). Perceptual function and category-selective neural organization in children with resections of visual cortex. _Journal of Neuroscience_, 3160-18. [DOI: https://doi.org/10.1523/JNEUROSCI.3160-18.2019](https://doi.org/10.1523/JNEUROSCI.3160-18.2019) (#co-first authors with equal contribution) [12 news mentions, including Newsweek, Science Daily, Technology Networks, American Academy of Ophthalmology, Medical Health News, NIH News] 
 
-12.	**Liu, T.T.**, Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. _Cell Reports_. 24(5), 1113-1122.e6. [DOI: http://doi.org/10.1016/j.celrep.2018.06.099](http://doi.org/10.1016/j.celrep.2018.06.099) [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
+12.	**Liu, T.T.**, Nestor, A., Vida, M., Pyles, J., Patterson, C., Yang, Y., Yang, F.N., Freud, E., & Behrmann, M. (2018). Successful reorganization of category-selective visual cortex following occipito-temporal lobectomy in childhood. _Cell Reports_, 24(5), 1113-1122.e6. [DOI: http://doi.org/10.1016/j.celrep.2018.06.099](http://doi.org/10.1016/j.celrep.2018.06.099) [>70 news mentions, including Washington Post, CNN, NBC News, Medium, USA Today, Science Daily, Live Science, etc]
 
-13.	**Liu, T.T.**, & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. _Neuropsychologia_. 105, 197-214. [DOI: http://doi.org/10.1016/j.neuropsychologia.2017.06.030](http://doi.org/10.1016/j.neuropsychologia.2017.06.030)
+13.	**Liu, T.T.**, & Behrmann, M. (2017). Functional outcomes following lesions in visual cortex: Implications for plasticity of high-level vision. _Neuropsychologia_, 105, 197-214. [DOI: http://doi.org/10.1016/j.neuropsychologia.2017.06.030](http://doi.org/10.1016/j.neuropsychologia.2017.06.030)
 
 14.	**Liu, T.T.**, & Behrmann, M. (2014). Impaired holistic processing of left-right composite faces in congenital prosopagnosia. _Frontiers in Human Neuroscience_, 8. [DOI: http://doi.org/10.3389/fnhum.2014.00750](http://doi.org/10.3389/fnhum.2014.00750)  (This article is part of the Research Topic Facing the other: Novel theories and methods in face perception research.)
 
@@ -188,7 +188,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## WRITING FOR THE PUBLIC
 In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
-To date, my popular science blog has attracted over 112,000 followers, 37,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+To date, my popular science blog has attracted over 113,000 followers, 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
 
 A. My ongoing collaborations with editors at Zhihu.
