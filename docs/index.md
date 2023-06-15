@@ -8,7 +8,11 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 
 ## EMPLOYMENT
 ```
-2018.7 – Present	National Institute of Mental Health – Bethesda, MD, USA
+2023.6 – Present	National Institute of Mental Health – Bethesda, MD, USA
+			Research fellow
+			Advisors: Dr. Elisha Merriam
+
+2018.7 – 2023.6		National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
@@ -101,23 +105,18 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 2. Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
 
-3. Liu, T.T. (2017, Nov). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institute of Mental Health, National Institutes of Health, Bethesda, MD.
+3. Liu, T.T. (2017, November). Longitudinal mapping of the reorganization of the visual system in childhood post-lobectomy. Invited talk at Laboratory of Brain and Cognition, National Institute of Mental Health, National Institutes of Health, Bethesda, MD.
 
-4. Liu, T.T. (2017, Jan). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
+4. Liu, T.T. (2017, January). Understanding cortical reorganization in the visual system. Invited talk at Shenzhen Institute of Neuroscience, Shenzhen, China.
 
-5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
+5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at the Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
 
-## Recently submitted/accepted conference abstracts
-1. Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (2023, July). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. Conference abstract submitted to OHBM 2023 (accepted). 
-
-2. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Conference abstract submitted to VSS 2023 (accepted).
-
-3. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Conference abstract submitted to VSS 2023 (accepted).
-
+## Recently submitted conference abstracts
+1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Conference abstract submitted to SFN 2023. 
 
 ## Conference Talks
-1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, Nov). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
+1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
 2. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
 
@@ -137,35 +136,39 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Posters
-1. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
+1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2022, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-2. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Early Career Scientist Travel Grant]**
+2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2022, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received 2022 NIH Postbac Poster Day Outstanding Poster Award]**
+3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
-4. Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
+4. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Early Career Scientist Travel Grant]**
 
-5. **Liu, T.T.**, Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, October). Affective processing of face stimuli in human primary visual cortex. Poster presented at the 49th Annual Meeting of the Society for Neuroscience, Chicago, IL. 
+5. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received 2022 NIH Postbac Poster Day Outstanding Poster Award]**
 
-6. Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, DC.
+6. Fu, J.Z., **Liu, T.T.**, Merriam, E.P., Ungerleider, L.G. (2020, April). Spatio-temporal dynamics and spectral profile of facial valence processing in V1. Virtual poster presented at NIH Postbac Poster Day.
 
-7. Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
+7. **Liu, T.T.**, Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, October). Affective processing of face stimuli in human primary visual cortex. Poster presented at the 49th Annual Meeting of the Society for Neuroscience, Chicago, IL. 
 
-8. Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, Nov). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
+8. Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, DC.
 
-9. **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, Nov). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
+9. Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
 
-10. **Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  **[Student Travel Award]**
+10. Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, November). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
 
-11. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2014, May). Holistic processing for left-right composite faces. Poster presented at the 14th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  
+11. **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, November). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
-12. Hayward, W.G., Lao, J., Cheng, Z., Crookes, K., **Liu, T.T.**, & Caldara. R. (2013, May). Eye movements for scrambled faces. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL.
+12. **Liu, T.T.**, Nestor, A., Kay, N.K, Vida, M., Pyles, J., Zhang, X., Patterson, C., & Behrmann, M. (2015, May). The topography of early and higher-order visual cortex in patients with hemispherectomy/lobectomy. Poster presented at 15th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  **[Student Travel Award]**
 
-13. **Liu, T.T.**, Chen, Z., & Hayward, W.G. (2013, May). High and low: The resolution of representations in visual working memory. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+13. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2014, May). Holistic processing for left-right composite faces. Poster presented at the 14th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.  
 
-14. **Liu, T.T.**, & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+14. Hayward, W.G., Lao, J., Cheng, Z., Crookes, K., **Liu, T.T.**, & Caldara. R. (2013, May). Eye movements for scrambled faces. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL.
 
-15. Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
+15. **Liu, T.T.**, Chen, Z., & Hayward, W.G. (2013, May). High and low: The resolution of representations in visual working memory. Poster presented at the 13th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+
+16. **Liu, T.T.**, & Hayward, W.G. (2012, May). Interactions between space-, surface-, and object-based attention. Poster presented at the 12th Annual Meeting of the Vision Sciences Society, Naples, FL. 
+
+17. Hsiao, J.H., & **Liu, T.T.** (2011, July). The optimal viewing position in face recognition. Poster presented at the 7th Asia-Pacific Conference on Vision, Hong Kong. 
 
 
 ## REPRESENTATIVE MEDIA COVERAGE
@@ -191,7 +194,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## WRITING FOR THE PUBLIC
 In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
-To date, my popular science blog has attracted over 113,000 followers, 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+To date, my popular science blog has attracted over 115,000 followers, 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
 
 A. My ongoing collaborations with editors at Zhihu.
@@ -261,7 +264,7 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
-		It's kind of a bummer that the impact score has actually worsened slightly,
+		It's a bummer that the impact score has worsened slightly,
 		despite the inclusion of a new high-impact publication, 
 		the incorporation of new preliminary data, 
 		and the addition of a clinical co-mentor to address the concerns from the previous round.
