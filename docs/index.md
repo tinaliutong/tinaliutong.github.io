@@ -13,7 +13,7 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 			Advisors: Dr. Elisha Merriam
 
 2018.7 – 2023.6		National Institute of Mental Health – Bethesda, MD, USA
-			Postdoctoral fellow
+			Postdoctoral fellow 
 			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
 		
@@ -94,10 +94,15 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 16.	Hsiao, J. H., & **Liu, T.T.** (2012). The optimal viewing position in face recognition. _Journal of Vision_, 12(2):22, 1-9. [DOI: http://doi.org/10.1167/12.2.22](http://doi.org/10.1167/12.2.22)
 
 
-## Preregistered studies 
+## Preregistered studies
 1.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (2022). The relationship between emotional valence, anxiety, and attentional disengagement. [OSF Preregistration DOI: https://doi.org/10.17605/OSF.IO/V9PW8](https://doi.org/10.17605/OSF.IO/V9PW8) (#co-senior authors with equal contribution)
 
-2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (2021). The relationship between emotional valence, anxiety, and attentional bias. OSF Preregistration [DOI: https://doi.org/10.17605/OSF.IO/S975H](https://doi.org/10.17605/OSF.IO/S975H) (#co-senior authors with equal contribution)  
+2.	Bachmann, H.P., Japee, S., Merriam, E.P.#, **Liu, T.T.**# (2021). The relationship between emotional valence, anxiety, and attentional bias. OSF Preregistration [DOI: https://doi.org/10.17605/OSF.IO/S975H](https://doi.org/10.17605/OSF.IO/S975H) (#co-senior authors with equal contribution)
+
+
+## Public data repositories
+ 
+1. Bachmann, H.P, Liu, T. T., Japee, S., & Merriam, E. P. (2022, December 16). The relationship between emotional valence, anxiety, and spatial attention. Retrieved from [osf.io/6k9fn](osf.io/6k9fn).
 
 
 ## Invited Talks
