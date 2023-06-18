@@ -209,12 +209,12 @@ A1. eBook (2017): [Imposter Syndrome「亚优秀症候群」](https://www.zhihu.
 A2. Live podcast (2018): [How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」?](https://www.zhihu.com/lives/1035484758083346432)
 
 A3. Zhihu Book Club recommendation in 2018: [Growth mindset「终身成长」](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
-I suggested the book "Mindset: The New Psychology of Success" by Carol S. Dweck, published by Random House in 2006. Note: The recording does not feature my voice, but rather that of a professional voice actor. 
-Note: This recording does not feature my voice, but rather that of a professional voice actor.
+I suggested the book "Mindset: The New Psychology of Success" by Carol S. Dweck, published by Random House in 2006. 
+Note: This recording does not feature my voice, but instead that of a professional voice actor.
 
 A4. Zhihu Book Club recommendation in 2019: [Emotional Intelligence「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
 I recommended the book "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman, published by Bantam Books in 2005.
-Note: This recording does not feature my voice, but rather that of a professional voice actor.
+Note: This recording does not feature my voice, but instead that of a professional voice actor.
 
 B. My recent collaborations with Cheers Publishing, one of the top publishing groups in China.
 
