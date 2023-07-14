@@ -332,8 +332,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Incoming mentee: Bing Li
-		Accepted into Princeton Neuroscience Institute graduate program. 
-		Deferred enrollment to 2024. 
+		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024. 
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
@@ -376,7 +375,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
-Ad hoc Reviewer, Behavioural Brain Research, 
+Ad hoc Reviewer, Behavioural Brain Research
+
+Ad hoc Reviewer, eLife 
 
 Ad hoc Reviewer, F1000Research
 
