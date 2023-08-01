@@ -56,20 +56,22 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in prep
 3.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (under revision). Emotion and anxiety interact to bias spatial attention. (##co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
 
+7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (submitted). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
+
 1.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
+
+6.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Sargaent, M.M., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
 
 2.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention. 
 
 4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (#co-first authors with equal contribution)
 
-6.	**Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
 
-7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (in preparation). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
 
 
 ## Peer-reviewed articles 
-1.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (in press). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
+1.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
 2.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
    
