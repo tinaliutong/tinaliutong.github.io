@@ -108,7 +108,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## Public data repositories
  
-1. Bachmann, H.P, Liu, T. T., Japee, S., & Merriam, E. P. (2022, December 16). The relationship between emotional valence, anxiety, and spatial attention. Retrieved from [https://osf.io/6k9fn](osf.io/6k9fn).
+1. Bachmann, H.P, Liu, T. T., Japee, S., & Merriam, E. P. (2022, December 16). The relationship between emotional valence, anxiety, and spatial attention. Retrieved from [osf.io/6k9fn](https://osf.io/6k9fn/).
 
 
 ## Invited Talks
