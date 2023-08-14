@@ -67,9 +67,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (#co-first authors with equal contribution)
 
 
-
-
-
 ## Peer-reviewed articles 
 1.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
@@ -108,7 +105,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## Public data repositories
  
-1. Bachmann, H.P, Liu, T. T., Japee, S., & Merriam, E. P. (2022, December 16). The relationship between emotional valence, anxiety, and spatial attention. Retrieved from [osf.io/6k9fn](https://osf.io/6k9fn/).
+1. Bachmann, H.P, Liu, T. T., Japee, S., & Merriam, E. P. (2022, December 16). The relationship between emotional valence, anxiety, and spatial attention. Retrieved from osf.io/6k9fn [DOI: 10.17605/OSF.IO/6K9FN](https://doi.org/10.17605/OSF.IO/6K9FN).
 
 
 ## Invited Talks
