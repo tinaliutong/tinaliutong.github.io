@@ -11,11 +11,11 @@ I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National 
 ```
 2023.6 – Present	National Institute of Mental Health – Bethesda, MD, USA
 			Research fellow
-			Advisors: Dr. Elisha Merriam
+			Mentor: Dr. Elisha Merriam
 
 2018.7 – 2023.6		National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow 
-			Advisors: Drs. Leslie Ungerleider & Elisha Merriam 
+			Mentors: Drs. Leslie Ungerleider & Elisha Merriam 
 ```
 		
 ## EDUCATION
@@ -334,12 +334,12 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## MENTORING EXPERIENCE
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Incoming mentee: Bing Li
+		Mentee: Bing Li
 		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024. 
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Incoming clinical health psychology grad student at East Carolina University
+		Clinical health psychology grad student at East Carolina University
 		2021: NIMH Three-Minute-Talk Finalist
 		2021: NIMH Office of Fellowship Travel Award 
 
@@ -353,7 +353,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
-		Incoming neuroscience grad student at Columbia University
+		Neuroscience grad student at Columbia University
 		2022: VSS Early Career Scientist Travel Grant
 		2022: NIH Postbac Poster Day Outstanding Poster Award		
 		2022: NIMH Trainee Travel Award
@@ -384,11 +384,11 @@ Ad hoc Reviewer, eLife
 
 Ad hoc Reviewer, F1000Research
 
-Ad hoc Reviewer, Visual Cognition
-
 Ad hoc Reviewer, Neuropsychologia
 
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+
+Ad hoc Reviewer, Visual Cognition
 
 
 ## OTHER SERVICE
