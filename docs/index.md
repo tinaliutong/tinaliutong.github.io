@@ -113,7 +113,9 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Invited Talks
-1. Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Early Career Seminar, University of Nevada, Reno.
+1. Liu, T.T. (2023, February). Understanding neuroplasticity in the developing and adult human brain. Invited talk at Georgetown University Medical School, Washington, D.C.
+
+1. Liu, T.T. (2020, September). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited (virtual) talk at Early Career Seminar, University of Nevada, Reno.
 
 2. Liu, T.T. (2020, July). Layer-specific modulation of responses in human visual cortex by emotional faces. Invited talk at Fellows Afternoon Neuroscience Seminars (FANS), NIMH, NIH.
 
@@ -351,9 +353,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Mentee: Elena Younhye Ock
 		Future MD/PhD student
 		2023: VSS Early Career Scientist Travel Grant
+		2023: Travel award to attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of Utah
 		2022: NIH Postbac Poster Day Outstanding Poster Award
 		2022: Helmsley Scholarship for Cold Spring Harbor Course "Schizophrenia and Related Disorders" 
-		2023: Travel award to attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of Utah.
 		
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
