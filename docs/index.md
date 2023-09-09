@@ -5,10 +5,13 @@
 #### [Link to ORCID page](https://orcid.org/0000-0003-0316-5356).
 #### [Link to ResearchGate profile](https://www.researchgate.net/profile/Tina-Liu-6).
 
-I am a postdoctoral fellow in the Laboratory of Brain and Cognition at National Institute of Mental Health. I completed my PhD from Carnegie Mellon University in 2018, and received my MPhil and BSocSc (First Class Honors) from University of Hong Kong in 2013 and 2011, respectively.
 
 ## EMPLOYMENT
 ```
+2024.4 –		Georgetown University Medical School – Washington, DC
+			Assistant Professor in Neurology
+			Director of the Vision, Imaging, and Plasticity (VIP) Lab
+
 2023.6 – Present	National Institute of Mental Health – Bethesda, MD, USA
 			Research fellow
 			Mentor: Dr. Elisha Merriam
@@ -66,6 +69,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 4.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (#co-first authors with equal contribution)
 
+5.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 ## Peer-reviewed articles 
 1.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
