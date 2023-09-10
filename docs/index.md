@@ -242,7 +242,7 @@ C1. Creative writing in 2021: [It was not a bad year because of you.](https://gi
  
 ## HONORS, AWARDS & FELOWSHIPS
 ```
-September 2020	Office of Fellowship Training (OFT) Trainee Travel Awards, National Institute of Mental Health, National Institutes of Health
+September 2020	Office of Fellowship Training (OFT) Trainee Travel Award, NIMH, NIH
 
 2018 – Present	Intramural Research Training Award, National Institutes of Health
 
