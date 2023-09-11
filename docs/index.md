@@ -1,9 +1,9 @@
 ## Tong (Tina) Liu    劉彤 	## BSocSc (First Class Honors), MPhil, PhD
 
-##### [Google Scholar ](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)   
-#####  [ORCID ](https://orcid.org/0000-0003-0316-5356)
-##### [ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)   
-##### [Twitter](https://twitter.com/TinaLiuTong).
+#### [Google Scholar ](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)   
+####  [ORCID ](https://orcid.org/0000-0003-0316-5356)
+#### [ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)   
+#### [Twitter](https://twitter.com/TinaLiuTong).
 
 ## EMPLOYMENT
 ```
