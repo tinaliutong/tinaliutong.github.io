@@ -10,7 +10,7 @@
 ## EMPLOYMENT
 ```
 2024.4 –		Georgetown University Medical School – Washington, DC
-			Assistant Professor in Neurology
+			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 			Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
 2023.6 – Present	National Institute of Mental Health – Bethesda, MD, USA
