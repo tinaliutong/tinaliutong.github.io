@@ -58,8 +58,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution, ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
-3.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (under revision). Emotion and anxiety interact to bias spatial attention. (##co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/)
-
 7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (submitted). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
 1.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
@@ -73,6 +71,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 5.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 ## Peer-reviewed articles 
+3.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (accepted). Emotion and anxiety interact to bias spatial attention. _Emotion_. (##co-senior authors with equal contribution). [Preprint DOI: https://osf.io/qcp34/](https://osf.io/qcp34/) American Psychological Association, 2023. This preprint is not the copy of record and may not exactly replicate the authoritative document published in the APA journal.
+
 1.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
 2.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
