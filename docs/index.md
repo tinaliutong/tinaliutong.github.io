@@ -63,6 +63,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in prep
 7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (submitted). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
+8.	Liu, T.T. (in preparation). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
+
 1.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 6.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Sargaent, M.M., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
@@ -371,8 +373,8 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		2022: NIMH Trainee Travel Award
 		2022: NIMH Three-Minute-Talk Winner (https://youtu.be/HUvFmM6L4iU)
 
-2021 – Present	Mentor, Action Potential Advising Program 
-		Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+2021 – Present	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+		Mentees: Suma Dendi, Michelle Nehez, Abhay Kapoor, Aishwarya Krishnaswamy, Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
