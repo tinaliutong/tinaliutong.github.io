@@ -158,9 +158,9 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 ## Conference Posters
 1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington DC.  
 
-1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2022, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2022, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
