@@ -63,7 +63,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in prep
 7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (submitted). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
-8.	Liu, T.T. (in preparation). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
+8.	**Liu, T.T.** (in preparation). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
 
 1.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
@@ -286,17 +286,10 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022		Resubmission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 35 
-		It's a bummer that the impact score has worsened slightly,
-		despite the inclusion of a new high-impact publication, 
-		the incorporation of new preliminary data, 
-		and the addition of a clinical co-mentor to address the concerns from the previous round.
-		C'est la vie!
 		
 2021		Initial Submission, NIMH Pathway to Independence Awards (K99/R00) 
 		"Linking emotional processing and neural activity through layer-specific fMRI, MEG, and neurofeedback"
 		Impact Score: 33 
-		It's a borderline score according to the Program Officer, 
-		so I pressed on with revision and resubmission.
 
 2020 		NIMH Grant Writing Workshop Series
 ```
