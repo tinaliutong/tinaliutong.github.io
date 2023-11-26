@@ -7,23 +7,26 @@
 #### [Twitter](https://twitter.com/TinaLiuTong)
 
 
-## EMPLOYMENT
+## ACADEMIC APPOINTMENTS
 ```
 2024.4 –		Georgetown University Medical School – Washington, DC
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 			Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
-2023.6 – Present	National Institute of Mental Health – Bethesda, MD, USA
+2023.10 – 2024.3 	Georgetown University Medical School – Washington, DC
+			Adjunct Assistant Professor, Department of Neurology
+```
+		
+## EDUCATION & POSTDOCTORAL TRAINING
+```
+2023.6 – 2024.3 	National Institute of Mental Health – Bethesda, MD, USA
 			Research fellow
 			Mentor: Dr. Elisha Merriam
 
 2018.7 – 2023.6		National Institute of Mental Health – Bethesda, MD, USA
 			Postdoctoral fellow 
-			Mentors: Drs. Leslie Ungerleider & Elisha Merriam 
-```
-		
-## EDUCATION
-```
+			Mentors: Drs. Leslie Ungerleider & Elisha Merriam
+
 2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
 			Ph.D. in Psychology: Cognitive Neuroscience 
 			Advisor: Dr. Marlene Behrmann
