@@ -9,11 +9,11 @@
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 –		Georgetown University Medical School – Washington, DC
+2024.4 –		Georgetown University Medical School – Washington, D.C.
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 			Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
-2023.10 – 2024.3 	Georgetown University Medical School – Washington, DC
+2023.10 – 2024.3 	Georgetown University Medical School – Washington, D.C.
 			Adjunct Assistant Professor, Department of Neurology
 ```
 		
@@ -156,7 +156,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Posters
-1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington DC.  
+1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.  
 
 1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
@@ -172,11 +172,11 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 7. **Liu, T.T.**, Fu, J.Z., Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, October). Affective processing of face stimuli in human primary visual cortex. Poster presented at the 49th Annual Meeting of the Society for Neuroscience, Chicago, IL. 
 
-8. Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, DC.
+8. Fu, J.Z, **Liu, T.T.**, Japee, S., Chai, Y., Ungerleider, L.G., Merriam, E.P. (2019, September). Facial valence processing in human primary visual cortex. Poster presented at the 21st Annual NIMH IRP Fellows’ Scientific Training Day, Washington, D.C.
 
 9. Fu, J.Z., **Liu T.T.**, Japee, S., Merriam, E.P., Ungerleider, L.G. (2019, August) Using laminar fMRI to probe affective processing in V1. Poster Presented at NIH Postbac Poster Day, Bethesda, MD.
 
-10. Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, November). Randomized response-stimulus intervals implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington DC. 
+10. Yang, F.N., Xu, S., **Liu, T.T.**, Rao, H. (2017, November). Randomized response-stimulus intervals are implicitly encoded as temporal probabilities in the human brain. Poster presented at the 47th Annual Meeting of the Society for Neuroscience, Washington, D.C. 
 
 11. **Liu, T.T.**, Nestor, A., Kay, K.N., Vida, M., Pyles, J., Zhang, X., Patterson, C. & Behrmann (2016, November). The topography of early & higher-order visual cortex following temporal lobectomy. Poster presented at the 46th Annual Meeting of the Society for Neuroscience, San Diego, CA.
 
