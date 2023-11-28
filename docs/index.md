@@ -45,7 +45,7 @@
 			Major in Psychology, Minor in Politics and Public Administration 
 ```
 
-## ADDITIONAL TRAINING
+## ADDITIONAL SUMMER SCHOOL TRAINING
 ```
 Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN, USA
 			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
@@ -61,9 +61,9 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution, ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
-7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (submitted). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
+7.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (under revision). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
-8.	**Liu, T.T.** (in preparation). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
+8.	**Liu, T.T.** (submitted). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
 
 1.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
@@ -82,7 +82,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
    
-6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. _Nature Communications_, 13(1), 6302. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
+6.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotionally expressive faces. _Nature Communications_, 13(1), 6302. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
 Check out this news story which showcases Jason Fu, my postbac and the study's second author: [SOM Student Jason Fu, SOM Class of 2025, Published His Study in Nature Communications](https://www.nymc.edu/news-and-events/news-archives/study-identifies-pathway-that-processes-emotional-information-in-brain.php)
 
 8.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). 
