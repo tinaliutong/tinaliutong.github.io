@@ -344,42 +344,40 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
-		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024. 
+		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024.
+		
+2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: June Kim (2021-2024, co-mentorship: 2023-2024)
+		Future MD student
+
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Clinical health psychology grad student at East Carolina University
-		2021: NIMH Three-Minute-Talk Finalist
-		2021: NIMH Office of Fellowship Travel Award 
+		Now a clinical health psychology grad student at East Carolina University
 
 2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock
 		Future MD/PhD student
-		2023: VSS Early Career Scientist Travel Grant
-		2023: Travel award to attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of Utah
-		2022: NIH Postbac Poster Day Outstanding Poster Award
-		2022: Helmsley Scholarship for Cold Spring Harbor Course "Schizophrenia and Related Disorders" 
-		
+
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
-		Neuroscience grad student at Columbia University
-		2022: VSS Early Career Scientist Travel Grant
-		2022: NIH Postbac Poster Day Outstanding Poster Award		
-		2022: NIMH Trainee Travel Award
-		2022: NIMH Three-Minute-Talk Winner (https://youtu.be/HUvFmM6L4iU)
+		Now a neuroscience grad student at Columbia University
 
 2021 – Present	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-		Mentees: Suma Dendi, Michelle Nehez, Abhay Kapoor, Aishwarya Krishnaswamy, Deena Khan
+		Mentees:
+		Suma Dendi
+		Abhay Kapoor
+  		Michelle Nehez
+		Aishwarya Krishnaswamy
+		Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
-		Now MD student at New York Medical College
-		2022: National Medical Fellowship Primary Care Leadership Program (Focus: Substance abuse disorders and behavioral health integration)
-		
+		Now an MD student at New York Medical College
+ 		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
-		Now MD student at University of Rochester Medical School
-		2015: Ireland Undergraduate Research Awards
+		Now an MD student at University of Rochester Medical School
 ```
 
 ## EDITORIAL SERVICE
