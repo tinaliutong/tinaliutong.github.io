@@ -63,7 +63,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in prep
 1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (under revision). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
-2.	**Liu, T.T.** (submitted). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
+2.	**Liu, T.T.** (under review). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
 
 3.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
   
@@ -135,7 +135,8 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Recently submitted conference abstracts
-1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Conference abstract submitted to SFN 2023. 
+1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (submitted). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Conference abstract submitted to VSS 2024.
+
 
 ## Conference Talks
 1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
@@ -159,7 +160,6 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## Conference Posters
 1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.  
-
 1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
@@ -349,7 +349,6 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
-
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
