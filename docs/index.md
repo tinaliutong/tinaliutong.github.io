@@ -6,12 +6,14 @@
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 –		Georgetown University Medical School – Washington, D.C.
-			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
-			Director of the Vision, Imaging, and Plasticity (VIP) Lab
+2024.4 –
+Georgetown University Medical School – Washington, D.C.
+Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
+Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
-2023.10 – 2024.3 	Georgetown University Medical School – Washington, D.C.
-			Adjunct Assistant Professor, Department of Neurology
+2023.10 – 2024.3
+Georgetown University Medical School – Washington, D.C.
+Adjunct Assistant Professor, Department of Neurology
 ```
 		
 ## EDUCATION & POSTDOCTORAL TRAINING
