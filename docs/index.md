@@ -1,18 +1,18 @@
 ## Tong (Tina) Liu    劉彤   
 ### BSocSc (First Class Honors), MPhil, PhD
-### Department of Neurology and Center for Brain Plasticity and Recovery
-### Georgetown University Medical School
-### Email: tl925 at georgetown.edu
-### Office: Building D, Rm285, 4000 Reservoir Rd NW, Washington DC 20057
+#### Department of Neurology and Center for Brain Plasticity and Recovery
+#### Georgetown University Medical School
+#### Email: tl925 at georgetown.edu
+#### Office: Building D, Rm 285, 4000 Reservoir Rd NW, Washington DC 20057
 
 #### [Lab Website](https://sites.google.com/georgetown.edu/viplab)      [Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)      [ORCID ](https://orcid.org/0000-0003-0316-5356)      [ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)      [Twitter](https://twitter.com/TinaLiuTong)
 
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 – 	Georgetown University Medical School – Washington, D.C.
-		Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
-		Director of the Vision, Imaging, and Plasticity (VIP) Lab
+2024.4 – 		Georgetown University Medical School – Washington, D.C.
+			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
+			Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
 2023.10 – 2024.3	Georgetown University Medical School – Washington, D.C.
 			Adjunct Assistant Professor, Department of Neurology
