@@ -3,12 +3,6 @@
 
 #### [Lab Website](https://sites.google.com/georgetown.edu/viplab)		[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)		[ORCID ](https://orcid.org/0000-0003-0316-5356)		[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)		[Twitter](https://twitter.com/TinaLiuTong)
 
-#### Incoming Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery, Georgetown University Medical School
-#### Email: tl925 at georgetown.edu
-#### Office: Building D, Rm 285, 4000 Reservoir Rd NW, Washington DC 20057
-
-
-
 ## ACADEMIC APPOINTMENTS
 ```
 2024.4 – 		Georgetown University Medical School – Washington, D.C.
