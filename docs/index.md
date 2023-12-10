@@ -1,7 +1,8 @@
 ## Tong (Tina) Liu    劉彤 	
 ## BSocSc (First Class Honors), MPhil, PhD
 
-#### [Google Scholar ](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)   
+#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)
+#### [Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)   
 ####  [ORCID ](https://orcid.org/0000-0003-0316-5356)
 #### [ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)   
 #### [Twitter](https://twitter.com/TinaLiuTong)
@@ -347,22 +348,22 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024.
 		
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: June Kim (2021-2024, co-mentorship: 2023-2024)
+		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Now a clinical health psychology grad student at East Carolina University
 
-2021 - Present	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Elena Younhye Ock
+2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
 		Future MD/PhD student
 
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
 		Now a neuroscience grad student at Columbia University
 
-2021 – Present	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+2021 – 2024	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		Mentees:
 		Suma Dendi
 		Abhay Kapoor
@@ -382,19 +383,11 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## EDITORIAL SERVICE
 
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
-
-Ad hoc Reviewer, Behavioural Brain Research
-
 Ad hoc Reviewer, Communications Biology
-
 Ad hoc Reviewer, eLife 
-
 Ad hoc Reviewer, F1000Research
-
 Ad hoc Reviewer, Neuropsychologia
-
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
-
 Ad hoc Reviewer, Visual Cognition
 
 
@@ -425,13 +418,10 @@ Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
 ```
  
 ## Professional Affiliations 	
-
+```
 Society for Neuroscience
-
 Vision Sciences Society
-
 Cognitive Computational Neuroscience
-
 Organization for Human Brain Mapping
-
 Optica Fall Vision Meeting (formerly OSA) 
+```
