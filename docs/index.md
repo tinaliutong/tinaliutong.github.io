@@ -1,7 +1,7 @@
 ## Tong (Tina) Liu    劉彤   
 ### BSocSc (First Class Honors), MPhil, PhD
 
-#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)      [Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)      [ORCID ](https://orcid.org/0000-0003-0316-5356)      [ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)      [Twitter](https://twitter.com/TinaLiuTong)
+#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)		[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)		[ORCID ](https://orcid.org/0000-0003-0316-5356)		[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)		[Twitter](https://twitter.com/TinaLiuTong)
 
 #### Incoming Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery, Georgetown University Medical School
 #### Email: tl925 at georgetown.edu
