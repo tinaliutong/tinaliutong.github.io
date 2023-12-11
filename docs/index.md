@@ -61,11 +61,11 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 2.	**Liu, T.T.** (under review). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity.
 
-3.	Ventura, P.#, Cruz., F., & Pereira, A., **Liu, T.T.**# (submitted). Holistic processing of famous faces and Gestalt line stimuli overlaps at an early perceptual stage. 
+3.	Ventura, P., Pereira, A., Cruz, F., & **Liu, T.T.** (submitted). Holistic processing of famous faces and Gestalt line stimuli overlaps at an early perceptual stage. 
 
 4.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
-5.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Sargaent, M.M., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
+5.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
 
 6.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
