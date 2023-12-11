@@ -59,19 +59,18 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ## Manuscript under review or in prep
 1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (under revision). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
 
-2.	**Liu, T.T.** (under review). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity. 
+2.	**Liu, T.T.** (under review). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity.
 
-3.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
-  
-4.	Ventura, P.#, Cruz., F., & Pereira, A., **Liu, T.T.**# (in preparation). Holistic processing of famous faces and Gestalt line stimuli overlaps at an early perceptual stage! 
+3.	Ventura, P.#, Cruz., F., & Pereira, A., **Liu, T.T.**# (submitted). Holistic processing of famous faces and Gestalt line stimuli overlaps at an early perceptual stage. 
+
+4.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
 5.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Sargaent, M.M., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients.
 
-6.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
+6.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
-7.	Ventura, P.#, **Liu, T.T.**#, Cruz., F., & Pereira, A. (in preparation). The trade-off in holistic processing of faces and words is modulated by familiarity. (#co-first authors with equal contribution)
+7.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
 
-8.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 ## Peer-reviewed articles 
 1.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (in press). Emotion and anxiety interact to bias spatial attention. _Emotion_. (##co-senior authors with equal contribution).  [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) 
