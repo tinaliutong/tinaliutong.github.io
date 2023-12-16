@@ -5,11 +5,11 @@
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 – 		Georgetown University Medical School – Washington, D.C.
+2024.4 – 		Georgetown University Medical School – Washington, D.C., USA
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 			Director of the Vision, Imaging, and Plasticity (VIP) Lab
 
-2023.10 – 2024.3	Georgetown University Medical School – Washington, D.C.
+2023.10 – 2024.3	Georgetown University Medical School – Washington, D.C., USA
 			Adjunct Assistant Professor, Department of Neurology
 ```
 		
@@ -23,7 +23,7 @@
 			Postdoctoral fellow 
 			Mentors: Drs. Leslie Ungerleider & Elisha Merriam
 
-2013.8 – 2018.6 	Carnegie Mellon University – Pittsburgh, PA, USA 
+2013.8 – 2018.5 	Carnegie Mellon University – Pittsburgh, PA, USA 
 			Ph.D. in Psychology: Cognitive Neuroscience 
 			Advisor: Dr. Marlene Behrmann
 			Committee: Drs. Michael Tarr, David Plaut, & Carl Olson
@@ -41,8 +41,11 @@
 			Major in Psychology, Minor in Politics and Public Administration 
 ```
 
-## ADDITIONAL SUMMER SCHOOL TRAINING
+## ADDITIONAL TRAINING
 ```
+Fall 2020		‘Scientists Teaching Science’ 9-week Online Course 
+			Instructor, Ms. Barbara Houtz
+
 Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN, USA
 			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
 
@@ -54,7 +57,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ```
 
 ## PUBLICATIONS
-(#co-first authors with equal contribution, ##co-senior authors with equal contribution) 
+(#co-first authors with equal contribution,  _†_co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
 1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (under revision). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
@@ -344,26 +347,21 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
-		
-2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Now a clinical health psychology grad student at East Carolina University
 
 2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
 		Future MD/PhD student
+		
+2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
+		Now a clinical health psychology grad student at East Carolina University
 
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
 		Now a neuroscience grad student at Columbia University
 
 2021 – 2024	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-		Mentees:
-		Suma Dendi
-		Abhay Kapoor
-  		Michelle Nehez
-		Aishwarya Krishnaswamy
-		Deena Khan
+		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
