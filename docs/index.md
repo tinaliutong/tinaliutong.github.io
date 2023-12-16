@@ -44,7 +44,7 @@
 ## ADDITIONAL TRAINING
 ```
 Fall 2020		‘Scientists Teaching Science’ 9-week Online Course 
-			Instructor, Ms. Barbara Houtz
+			Instructor: Ms. Barbara Houtz
 
 Summer 2018		Summer School in Computational Sensory-Motor Neuroscience (CoSMo) - Minneapolis, MN, USA
 			Coordinators: Drs. Gunnar Blohm, Paul Schrater & Konrad Körding
@@ -57,7 +57,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 ```
 
 ## PUBLICATIONS
-(#co-first authors with equal contribution,  _†_co-senior authors with equal contribution) 
+(#co-first authors with equal contribution,  ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
 1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (under revision). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex.
@@ -157,7 +157,8 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Posters
-1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.  
+1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.
+   
 1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
 2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
