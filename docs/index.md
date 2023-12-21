@@ -70,13 +70,13 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 5.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
 
-6.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
+6.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 7.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
 
 
 ## Peer-reviewed articles 
-1.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (in press). Emotion and anxiety interact to bias spatial attention. _Emotion_. (##co-senior authors with equal contribution).  [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) 
+1.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (in press). Emotion and anxiety interact to bias spatial attention. _Emotion_. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)
 
 2.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
@@ -104,7 +104,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 12.	**Liu, T.T.**, Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. _Visual Cognition_, 22(8), 1050-1071. [DOI: http://doi.org/10.1080/13506285.2014.944613](http://doi.org/10.1080/13506285.2014.944613)
 
-13.	Hsiao, J. H., & **Liu, T.T.** (2012). The optimal viewing position in face recognition. _Journal of Vision_, 12(2):22, 1-9. [DOI: http://doi.org/10.1167/12.2.22](http://doi.org/10.1167/12.2.22)
+13.	Hsiao, J. H., & **Liu, T.T.** (2012). [The optimal viewing position in face recognition(http://doi.org/10.1167/12.2.22)]. _Journal of Vision_, 12(2):22, 1-9. DOI: http://doi.org/10.1167/12.2.22
 
 
 ## Preregistered studies
