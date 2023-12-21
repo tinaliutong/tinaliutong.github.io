@@ -104,7 +104,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 12.	**Liu, T.T.**, Oxner, M., Hayward, W. G., & Behrmann, M. (2014). Holistic processing for left-right composite faces in Chinese and Caucasian observers. _Visual Cognition_, 22(8), 1050-1071. [DOI: http://doi.org/10.1080/13506285.2014.944613](http://doi.org/10.1080/13506285.2014.944613)
 
-13.	Hsiao, J. H., & **Liu, T.T.** (2012). [The optimal viewing position in face recognition(http://doi.org/10.1167/12.2.22)]. _Journal of Vision_, 12(2):22, 1-9. DOI: http://doi.org/10.1167/12.2.22
+13.	Hsiao, J. H., & **Liu, T.T.** (2012). [The optimal viewing position in face recognition](http://doi.org/10.1167/12.2.22). _Journal of Vision_, 12(2):22, 1-9. DOI: http://doi.org/10.1167/12.2.22
 
 
 ## Preregistered studies
