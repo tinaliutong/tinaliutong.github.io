@@ -76,7 +76,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Peer-reviewed articles 
-1.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (in press). Emotion and anxiety interact to bias spatial attention. _Emotion_. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)
+1.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2023). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  
 
 2.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
@@ -361,7 +361,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Mentee: Helena Bachmann 
 		Now a neuroscience grad student at Columbia University
 
-2021 – 2024	Mentor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
@@ -376,11 +376,17 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## EDITORIAL SERVICE
 ```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
+
 Ad hoc Reviewer, Communications Biology
-Ad hoc Reviewer, eLife 
+
+Ad hoc Reviewer, eLife
+
 Ad hoc Reviewer, F1000Research
+
 Ad hoc Reviewer, Neuropsychologia
+
 Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behrmann)
+
 Ad hoc Reviewer, Visual Cognition
 ```
 
@@ -413,8 +419,12 @@ Summer 2008	Volunteer, Media Operations, Beijing Olympic Games, Beijing, China
 ## Professional Affiliations 	
 ```
 Society for Neuroscience
+
 Vision Sciences Society
+
 Cognitive Computational Neuroscience
+
 Organization for Human Brain Mapping
+
 Optica Fall Vision Meeting (formerly OSA) 
 ```
