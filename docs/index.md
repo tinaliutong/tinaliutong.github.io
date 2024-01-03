@@ -7,10 +7,6 @@
 ```
 2024.4 – 		Georgetown University Medical School – Washington, D.C., USA
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
-			Director of the Vision, Imaging, and Plasticity (VIP) Lab
-
-2023.10 – 2024.3	Georgetown University Medical School – Washington, D.C., USA
-			Adjunct Assistant Professor, Department of Neurology
 ```
 		
 ## EDUCATION & POSTDOCTORAL TRAINING
@@ -217,7 +213,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## WRITING FOR THE PUBLIC
 In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
-To date, my popular science blog has attracted over 115,000 followers, 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+To date, my popular science blog has received more than 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
 
 A. My ongoing collaborations with editors at Zhihu.
