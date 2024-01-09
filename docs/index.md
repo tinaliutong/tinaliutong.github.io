@@ -76,7 +76,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Peer-reviewed articles 
-1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (in press). Holistic processing and expertise effects after pediatric resection of occipitotemporal cortex. _Neuropsychologia_.
+1.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2024). Holistic processing and face expertise after pediatric resection of occipitotemporal cortex. _Neuropsychologia_. [DOI: 10.1016/j.neuropsychologia.2024.108789](http://doi.org/10.1016/j.neuropsychologia.2024.108789)
 
 2.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2023). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  
 
