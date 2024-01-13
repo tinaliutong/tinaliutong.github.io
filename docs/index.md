@@ -39,11 +39,12 @@
 
 ## ADDITIONAL TRAINING
 ```
-2023.5			Certificate of Completion, Management Bootcamp: Leadership & Management Training Program, Office of Intramural Training & Education (OITE), NIH
+2023.5			Certificate of Completion, Management Bootcamp: Leadership & Management Training Program
+			Office of Intramural Training & Education (OITE), NIH
 			Instructor: Dr. Lori Conlan
 
 2020.9 – 2021.1		Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
-			Instructor, Ms. Barbara Houtz
+			Instructor: Ms. Barbara Houtz
 
 2020.2 – 2020.8		NIMH Grant Writing Workshop Series and Mock Review Session
 			Lead instructor: Dr. David Armstrong
