@@ -1,11 +1,11 @@
 ## CURRICULUM VITAE
 ### Tong (Tina) Liu 劉彤, BSocSc (First Class Honors), MPhil, PhD
 
-#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)		[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)		[ORCID ](https://orcid.org/0000-0003-0316-5356)		[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)		[Twitter](https://twitter.com/TinaLiuTong)
+#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)	&nbsp;&nbsp	[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)	&nbsp;&nbsp	[ORCID ](https://orcid.org/0000-0003-0316-5356)	&nbsp;&nbsp	[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)	&nbsp;&nbsp	[Twitter](https://twitter.com/TinaLiuTong)
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 – Present		Georgetown University Medical School – Washington, D.C., USA
+2024.4 – Present	Georgetown University Medical School – Washington, D.C., USA
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 ```
 		
@@ -222,7 +222,7 @@ In 2015, I began writing about cognitive psychology and the brain for the public
 
 To date, my popular science blog has received more than 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
 
-I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
+PS. I occasionally use the pen name "This is Not Tina" for my writing.
 
 A. My ongoing collaborations with editors at Zhihu.
 
@@ -340,35 +340,35 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 ## MENTORING EXPERIENCE
 ```
-2023 - 2024 	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
 		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024.
 		
-2023 - 2024	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
 
-2022 - 2024	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
 		Future MD/PhD student
 		
-2022 - 2023	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Now a clinical health psychology grad student at East Carolina University
 
-2021 - 2023	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Helena Bachmann 
+2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Helena (Lanie) Bachmann 
 		Now a neuroscience grad student at Columbia University
 
-2021 – 2024	**Advisor**, Action Potential Advising Program, Simply Neuroscience
+2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
 		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
-2018 – 2021	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now an MD student at New York Medical College
  		
-2015 – 2017 	**Mentor**, Carnegie Mellon University 
+2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
 		Now an MD student at University of Rochester Medical School
 ```
