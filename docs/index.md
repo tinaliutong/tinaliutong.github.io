@@ -5,7 +5,7 @@
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 – 		Georgetown University Medical School – Washington, D.C., USA
+2024.4 – Present		Georgetown University Medical School – Washington, D.C., USA
 			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
 ```
 		
@@ -219,7 +219,9 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 ## WRITING FOR THE PUBLIC
 In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
+
 To date, my popular science blog has received more than 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+
 I occasionally use the pen name "This is Not Tina" for my writing, while at other times I use my real name, 劉彤.
 
 A. My ongoing collaborations with editors at Zhihu.
@@ -243,7 +245,7 @@ Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The 
 Note: This recording features my voice. 
 
 B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾清除计划」](https://www.cheerspublishing.com/course/detail/1619943380736524288)
-Note: This recording also features my own voice. 
+Note: This recording  features my own voice. 
 
 
 C. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
@@ -255,7 +257,7 @@ C1. Creative writing in 2021: [It was not a bad year because of you.](https://gi
 ```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Award, NIMH, NIH
 
-2018 – Present	Intramural Research Training Award, National Institutes of Health
+2018 – 2023	Intramural Research Training Award, National Institutes of Health
 
 Summer 2018 	Summer School in Computational Sensory-Motor Neuroscience Fellowship
 
@@ -297,13 +299,8 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2020 		NIMH Grant Writing Workshop Series
 ```
 
-## TEACHING EXPERIENCE AND CERTIFICATES
+## TEACHING EXPERIENCE
 ```
-Fall 2020	Certificate of Training, ‘Scientists Teaching Science’ 9-week Online Course 
-		Office of Intramural Training and Education & 
-		Office of the Director in the Office of Intramural Research
-		National Institute of Mental Health
-
 Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
 		Guest lectured ("Hemispheric differences")
 		Assisted with dissection labs (Eye dissection & brain dissection)
@@ -343,34 +340,35 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 ## MENTORING EXPERIENCE
 ```
-2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2023 - 2024 	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
 		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024.
 		
-2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2023 - 2024	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
 
-2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2022 - 2024	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
 		Future MD/PhD student
 		
-2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2022 - 2023	**Co-mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
 		Now a clinical health psychology grad student at East Carolina University
 
-2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2021 - 2023	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena Bachmann 
 		Now a neuroscience grad student at Columbia University
 
-2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience (an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+2021 – 2024	**Advisor**, Action Potential Advising Program, Simply Neuroscience
+		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
-2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+2018 – 2021	**Mentor**, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
 		Now an MD student at New York Medical College
  		
-2015 – 2017 	Mentor, Carnegie Mellon University 
+2015 – 2017 	**Mentor**, Carnegie Mellon University 
 		Mentee: Adam Dickter 
 		Now an MD student at University of Rochester Medical School
 ```
