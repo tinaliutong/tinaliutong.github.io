@@ -1,7 +1,7 @@
 ## CURRICULUM VITAE
 ### Tong (Tina) Liu 劉彤, BSocSc (First Class Honors), MPhil, PhD
 
-#### [Lab Website](https://sites.google.com/georgetown.edu/viplab)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
+#### [Lab Website](https://sites.google.com/georgetown.edu/vPplab)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
 
 ## ACADEMIC APPOINTMENTS
 ```
