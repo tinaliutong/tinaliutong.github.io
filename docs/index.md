@@ -392,7 +392,7 @@ Ad hoc Reviewer, Trends in Cognitive Sciences (co-reviewed with Dr. Marlene Behr
 Ad hoc Reviewer, Visual Cognition
 ```
 
-## OTHER SERVICE
+## OTHER SERVICE AND CERTIFICATES
 ```
 2024 		QS World University Rankings Survey for the Hong Kong Polytechnic University
 
@@ -401,6 +401,10 @@ Ad hoc Reviewer, Visual Cognition
 2021 - 2023	Certified CPR Basic Life Support, American Heart Association
 
 2018 - 2020	Certified CPR Lay Responder, American Heart Association
+
+2019 - Present	NMRF Scanner Operator, 3T Discovery MR750 scanner (GE Healthcare, Waukesha, WI, USA), Functional Magnetic Resonance Imaging Core Facility (FMRIF), NIH Bethesda Campus
+
+2018 - Present	NMRF Scanner Operator, MAGNETOM 7T scanner (Siemens Healthineers, Erlangen, Germany), Functional Magnetic Resonance Imaging Core Facility (FMRIF), NIH Bethesda Campus
 
 2018 – 2019	Panelist, Proceedings of the National Academy of Sciences (PNAS) Journal Club
 
