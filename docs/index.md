@@ -135,29 +135,28 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at the Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
-
-## Recently submitted conference abstracts
-1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (submitted). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Conference abstract submitted to VSS 2024.
-
+ 
 
 ## Conference Talks
-1. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
+1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+ 
+3. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
-2. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
+4. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., Merriam, E.P. (2022, October). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotional facial expressive faces. Talk presented at Optica Fall Vision Meeting. Rochester, NY. 
 
-3. Granovetter, M., **Liu, T.T.**, Maallo, A.M.S., Patterson, C., & Behrmann, M. (2022, June). Delineating the Time-Course of Visual System Plasticity, Pre- and Post-Pediatric Occipital Lobectomy. Talk presented at the 28th Annual Meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
+5. Granovetter, M., **Liu, T.T.**, Maallo, A.M.S., Patterson, C., & Behrmann, M. (2022, June). Delineating the Time-Course of Visual System Plasticity, Pre- and Post-Pediatric Occipital Lobectomy. Talk presented at the 28th Annual Meeting of the Organization for Human Brain Mapping, Glasgow, Scotland.
 
-4. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, May). Plasticity of visual cortex following large cortical resections. Talk presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+6. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, May). Plasticity of visual cortex following large cortical resections. Talk presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-5. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the Annual (Virtual) Meeting of the Vision Sciences Society.
+7. **Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Ungerleider, L.G., Merriam, E.P. (2020, June). Layer-specific modulation of visual responses in human visual cortex by emotional faces. Talk presented at the Annual (Virtual) Meeting of the Vision Sciences Society.
 
-6. **Liu, T.T.**, Nestor, A., Patterson, C., Vida, M., Pyles, J., Yang, Y., Freud, E., & Behrmann, M. (2016, May). The developing ventral visual pathway in a young patient following right occipito-temporal lobectomy. Talk presented at 16th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. 
+8. **Liu, T.T.**, Nestor, A., Patterson, C., Vida, M., Pyles, J., Yang, Y., Freud, E., & Behrmann, M. (2016, May). The developing ventral visual pathway in a young patient following right occipito-temporal lobectomy. Talk presented at 16th Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. 
 
-7. Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (2013, May). Eye movements for scrambled faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China.
+9. Cheng, Z., Lao, J., Crookes, K., **Liu, T.T.**, & Caldara. R., Hayward, W.G. (2013, May). Eye movements for scrambled faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China.
 
-8. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. **[Student Travel Award]** 
+10. **Liu, T.T.**, Oxner, M., Hayward, W.G., & Behrmann, M. (2013, July). Holistic processing for left-right composite faces. Talk presented at the 9th Asia-Pacific Conference on Vision, Suzhou, China. **[Student Travel Award]** 
 
-9. **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. **[Best Oral Presentation]**
+11. **Liu, T.T.** (2013, June). The hierarchical structure of visual working memory. Talk presented at the Annual Research Postgraduate Conference, Faculty of Social Sciences, University of Hong Kong, Hong Kong, China. **[Best Oral Presentation]**
 
 
 ## Conference Posters
