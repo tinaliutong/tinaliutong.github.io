@@ -378,6 +378,8 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 Reviewing editor, Editorial Board of Neuroimaging for Cognitive Neuroscience, Frontiers in Neuroimaging
 
+Ad hoc Reviewer, Cerebral Cortex
+
 Ad hoc Reviewer, Communications Biology
 
 Ad hoc Reviewer, eLife
