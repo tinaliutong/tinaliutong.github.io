@@ -63,17 +63,15 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution,  ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
-2.	**Liu, T.T.** (under review). Revisiting the Protomap vs. Protocortex Hypotheses: Functional Implications for Neuroplasticity.
+1.	**Liu, T.T.** (under revision). Revisiting cross-modal plasticity: biological constraints and translational implications
+   
+2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
-3.	Ventura, P., Pereira, A., Cruz, F., & **Liu, T.T.** (submitted). Holistic processing of famous faces and Gestalt line stimuli overlaps at an early perceptual stage. 
+3.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
 
-4.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
+4.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
-5.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
-
-6.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
-
-7.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
+5.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
 
 
 ## Peer-reviewed articles 
