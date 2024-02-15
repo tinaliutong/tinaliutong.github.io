@@ -63,7 +63,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution,  ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep
-1.	**Liu, T.T.** (under revision). Revisiting cross-modal plasticity: biological constraints and translational implications
+1.	**Liu, T.T.** (under revision). Revisiting cross-modal plasticity: biological constraints and translational implications.
    
 2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
 
