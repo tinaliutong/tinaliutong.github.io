@@ -136,7 +136,7 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
  
 
 ## Conference Talks
-1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Bing Li received VSS 2024 Early Career Scientist Travel Grant]**
  
 3. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
