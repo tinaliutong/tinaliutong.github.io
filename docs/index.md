@@ -79,7 +79,6 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
    
 3.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2023). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader](https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader)
 
-
 4.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
 5.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
@@ -247,10 +246,10 @@ B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾�
 Note: This recording  features my own voice. 
 
 
-C. The following "book" is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
+C. Creative writing in 2021: [It was not a bad year because of you.](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+This is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks in MD as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
-C1. Creative writing in 2021: [It was not a bad year because of you.](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
-
+ 
  
 ## HONORS, AWARDS & FELOWSHIPS
 ```
@@ -331,7 +330,7 @@ Fall 2012	Introduction to Quantitative Methods in Psychology (HKU), Course instr
 		Held office hours
 
 Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
-		Designed and led weekly 1-hour tutorials 
+		Designed and led weekly tutorials 
 		(covering topics in Cognitive Psychology, Philosophy, Linguistics, Artificial Intelligence, and Visual arts)
 		Graded exams
 		Held office hours
@@ -341,7 +340,7 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ```
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
-		Accepted into Princeton Neuroscience Institute graduate program, deferred enrollment to 2024.
+		Incoming grad student at Princeton Neuroscience Institute
 		
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
@@ -353,11 +352,11 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Now a clinical health psychology grad student at East Carolina University
+		Now clinical health psychology grad student at East Carolina University
 
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena (Lanie) Bachmann 
-		Now a neuroscience grad student at Columbia University
+		Now neuroscience grad student at Columbia University
 
 2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
 		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
@@ -365,11 +364,11 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
-		Now an MD student at New York Medical College
+		Now MD student at New York Medical College
  		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
-		Now an MD student at University of Rochester Medical School
+		Now MD student at University of Rochester Medical School
 ```
 
 ## EDITORIAL SERVICE
@@ -393,7 +392,7 @@ Ad hoc Reviewer, Visual Cognition
 
 ## OTHER SERVICE AND CERTIFICATES
 ```
-2024 		QS World University Rankings Survey for the Hong Kong Polytechnic University
+2024 		QS World University Rankings Survey for Hong Kong Polytechnic University
 
 2023 - Present  Certified Youth Mental Health First Aider, Mental Health First Aid - National Council for Mental Wellbeing
 
