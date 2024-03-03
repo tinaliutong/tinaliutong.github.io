@@ -338,6 +338,9 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 
 ## MENTORING EXPERIENCE
 ```
+2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
+		Mentee: Noah Steinberg, MD/PhD trainee
+
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
 		Incoming grad student at Princeton Neuroscience Institute
