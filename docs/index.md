@@ -250,7 +250,6 @@ C. Creative writing in 2021: [It was not a bad year because of you.](https://git
 This is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks in MD as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
 
  
- 
 ## HONORS, AWARDS & FELOWSHIPS
 ```
 September 2020	Office of Fellowship Training (OFT) Trainee Travel Award, NIMH, NIH
@@ -339,12 +338,12 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 ## MENTORING EXPERIENCE
 ```
 2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
-		Mentee: Noah Steinberg, MD/PhD trainee
+		Mentee: Noah Steinberg, MD/PhD student
 
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
-		Incoming grad student at Princeton Neuroscience Institute
-		
+		Incoming neuroscience grad student at Princeton University, received NSF GRFP in April 2024
+
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
 		Future MD student
@@ -382,7 +381,7 @@ Ad hoc Reviewer, Cerebral Cortex
 
 Ad hoc Reviewer, Communications Biology
 
-Ad hoc Reviewer, eLife
+Ad hoc Reviewer, eLife x 2
 
 Ad hoc Reviewer, F1000Research
 
@@ -395,6 +394,8 @@ Ad hoc Reviewer, Visual Cognition
 
 ## OTHER SERVICE AND CERTIFICATES
 ```
+2024 - Present	Project Selection Committee, NexGen 7T U24 Dissemination Grant (NIH) awarded to University of California, Berkeley 
+
 2024 		QS World University Rankings Survey for Hong Kong Polytechnic University
 
 2023 - Present  Certified Youth Mental Health First Aider, Mental Health First Aid - National Council for Mental Wellbeing
