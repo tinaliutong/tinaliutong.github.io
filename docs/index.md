@@ -1,7 +1,7 @@
 ## CURRICULUM VITAE
 ### Tong (Tina) Liu 劉彤, BSocSc (First Class Honors), MPhil, PhD
 
-#### [Lab Website](https://sites.google.com/georgetown.edu/vPplab)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
+#### [Lab Website](https://sites.google.com/georgetown.edu/vPplab)&ensp;&ensp;&ensp;[Georgetown Faculty Directory](https://gufaculty360.georgetown.edu/s/contact/003Hp00002ojfuNIAQ/tina-liu?searchType=Contact-Info&searchText=tina%20liu)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
 
 ## ACADEMIC APPOINTMENTS
 ```
@@ -214,41 +214,6 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 7. “Children’s brains reorganize after epilepsy surgery to retain visual perception – NIH-funded study shows that in children, the brain can compensate for missing regions of the visual cortex” — NIH News [https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception](https://www.nih.gov/news-events/news-releases/childrens-brains-reorganize-after-epilepsy-surgery-retain-visual-perception)
 
-
-## WRITING FOR THE PUBLIC
-In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
-
-To date, my popular science blog has received more than 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
-
-PS. I occasionally use the pen name "This is Not Tina" for my writing.
-
-A. My ongoing collaborations with editors at Zhihu.
-
-A1. eBook (2017): [Imposter Syndrome「亚优秀症候群」](https://www.zhihu.com/pub/book/19551075)
-
-A2. Live podcast (2018): [How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」?](https://www.zhihu.com/lives/1035484758083346432)
-
-A3. Zhihu Book Club recommendation in 2018: [Growth mindset「终身成长」](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
-I suggested the book "Mindset: The New Psychology of Success" by Carol S. Dweck, published by Random House in 2006. 
-Note: This recording does not feature my voice, but instead that of a professional voice actor.
-
-A4. Zhihu Book Club recommendation in 2019: [Emotional Intelligence「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
-I recommended the book "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman, published by Bantam Books in 2005.
-Note: This recording does not feature my voice, but instead that of a professional voice actor.
-
-B. My recent collaborations with Cheers Publishing, one of the top publishing groups in China.
-
-B1. Audiobook narration and interpretation in 2022: [「认知天性」](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
-Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
-Note: This recording features my voice. 
-
-B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾清除计划」](https://www.cheerspublishing.com/course/detail/1619943380736524288)
-Note: This recording  features my own voice. 
-
-
-C. Creative writing in 2021: [It was not a bad year because of you.](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
-This is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks in MD as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
-
  
 ## HONORS, AWARDS & FELOWSHIPS
 ```
@@ -281,6 +246,44 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2009		Serena Yang Award for Social Innovation, University of Hong Kong
  
 2009 – 2011	Dean’s Honors list, Faculty of Social Sciences, University of Hong Kong
+```
+
+## MENTORING EXPERIENCE
+```
+2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
+		Mentee: Noah Steinberg, MD/PhD student
+
+2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Bing Li
+		Incoming neuroscience grad student at Princeton University, received NSF GRFP in April 2024
+
+2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
+		Future MD student
+
+2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
+		Future MD/PhD student
+		
+2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
+		Now clinical health psychology grad student at East Carolina University
+
+2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Helena (Lanie) Bachmann 
+		Now neuroscience grad student at Columbia University
+
+2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
+		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
+
+2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
+		Mentee: Jason Fu 
+		Now MD student at New York Medical College
+ 		
+2015 – 2017 	Mentor, Carnegie Mellon University 
+		Mentee: Adam Dickter 
+		Now MD student at University of Rochester Medical School
 ```
 
 ## GRANT WRITING EXPERIENCE 
@@ -335,43 +338,6 @@ Fall 2011	Foundations of Cognitive Science (HKU), Course instructor: Li Li
 		Held office hours
 ```
 
-## MENTORING EXPERIENCE
-```
-2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
-		Mentee: Noah Steinberg, MD/PhD student
-
-2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Bing Li
-		Incoming neuroscience grad student at Princeton University, received NSF GRFP in April 2024
-
-2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
-		Future MD student
-
-2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
-		Future MD/PhD student
-		
-2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Now clinical health psychology grad student at East Carolina University
-
-2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Helena (Lanie) Bachmann 
-		Now neuroscience grad student at Columbia University
-
-2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
-		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
-		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
-
-2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
-		Mentee: Jason Fu 
-		Now MD student at New York Medical College
- 		
-2015 – 2017 	Mentor, Carnegie Mellon University 
-		Mentee: Adam Dickter 
-		Now MD student at University of Rochester Medical School
-```
 
 ## EDITORIAL SERVICE
 ```
@@ -394,6 +360,8 @@ Ad hoc Reviewer, Visual Cognition
 
 ## OTHER SERVICE AND CERTIFICATES
 ```
+2024 - Present	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University 
+
 2024 - Present	Project Selection Committee, NexGen 7T U24 Dissemination Grant (NIH) awarded to University of California, Berkeley 
 
 2024 		QS World University Rankings Survey for Hong Kong Polytechnic University
@@ -436,3 +404,37 @@ Organization for Human Brain Mapping
 
 Optica Fall Vision Meeting (formerly OSA) 
 ```
+
+## WRITING FOR THE PUBLIC
+In 2015, I began writing about cognitive psychology and the brain for the public on Zhihu, which was then a Chinese question-and-answer website similar to Quora in English but has recently become Zhihu Inc. (NASDAQ: ZH). 
+
+To date, my popular science blog has received more than 38,000 likes, 45,000 favorites, and 7 professional endorsements. Moreover, Zhihu Editor's Picks, Zhihu Roundtable, and Zhihu Daily have featured 25 of my answers and 10 of my articles. In recognition of my contributions to the fields of Cognitive Psychology, Neuroscience, and Psychology on Zhihu, I have been awarded the title of "Outstanding Respondent."
+
+PS. I occasionally use the pen name "This is Not Tina" for my writing.
+
+A. My ongoing collaborations with editors at Zhihu.
+
+A1. eBook (2017): [Imposter Syndrome「亚优秀症候群」](https://www.zhihu.com/pub/book/19551075)
+
+A2. Live podcast (2018): [How to overcome imposter feelings? 如何停止自我否定，摆脱「骗子综合症」?](https://www.zhihu.com/lives/1035484758083346432)
+
+A3. Zhihu Book Club recommendation in 2018: [Growth mindset「终身成长」](https://www.zhihu.com/remix/instabooks/971821620297498624) <br/>
+I suggested the book "Mindset: The New Psychology of Success" by Carol S. Dweck, published by Random House in 2006. 
+Note: This recording does not feature my voice, but instead that of a professional voice actor.
+
+A4. Zhihu Book Club recommendation in 2019: [Emotional Intelligence「情商」](https://www.zhihu.com/remix/instabooks/1087142232628391936) <br/>
+I recommended the book "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman, published by Bantam Books in 2005.
+Note: This recording does not feature my voice, but instead that of a professional voice actor.
+
+B. My recent collaborations with Cheers Publishing, one of the top publishing groups in China.
+
+B1. Audiobook narration and interpretation in 2022: [「认知天性」](https://h5.api.app.cheerspublishing.com/deepread/1501128258035515392?inviter_id=wUk4jGMIEEaI0bpvY9jT%2BgORVACHSm6EYaKGdOHqRLM%3D) <br/>
+Brown, P. C., Roediger III, H. L., & McDaniel, M. A. (2014). Make it stick: The science of successful learning. Harvard University Press.
+Note: This recording features my voice. 
+
+B2. Podcast in 2023: Brain fog: a tale of brain and body [「职场人的脑雾清除计划」](https://www.cheerspublishing.com/course/detail/1619943380736524288)
+Note: This recording  features my own voice. 
+
+
+C. Creative writing in 2021: [It was not a bad year because of you.](https://github.com/tinaliutong/tinaliutong.github.io/blob/master/Not%20a%20bad%20year_shortVersion.pdf) <br/>
+This is my debut creative writing in English. It chronicles my informal correspondence with NoBe Starbucks in MD as a recipient of Starbucks® for a year. I hope it makes for a light and entertaining read :)
