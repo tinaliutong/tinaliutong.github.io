@@ -73,7 +73,7 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Peer-reviewed articles 
-1.	Liu, T.T. (accepted). Unraveling nature and nurture in cortical (re)organization. _Nature Review Neuroscience_.
+1.	Liu, T.T. (2024). Unraveling nature and nurture in cortical (re)organization. _Nature Review Neuroscience_.  [DOI: 10.1038/s41583-024-00825-x](https://www.nature.com/articles/s41583-024-00825-x)
 
 2.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2024). Holistic processing and face expertise after pediatric resection of occipitotemporal cortex. _Neuropsychologia_, 194, 108789. [DOI: 10.1016/j.neuropsychologia.2024.108789](http://doi.org/10.1016/j.neuropsychologia.2024.108789)
    
