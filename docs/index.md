@@ -1,12 +1,13 @@
 ## CURRICULUM VITAE
 ### Tong (Tina) Liu 劉彤, BSocSc (First Class Honors), MPhil, PhD
 
-#### [Lab Website](https://sites.google.com/georgetown.edu/vPplab)&ensp;&ensp;&ensp;[Georgetown Faculty Directory](https://gufaculty360.georgetown.edu/s/contact/003Hp00002ojfuNIAQ/tina-liu?searchType=Contact-Info&searchText=tina%20liu)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
+#### [Lab Website](https://sites.google.com/georgetown.edu/vpplab)&ensp;&ensp;&ensp;[Georgetown Faculty Directory](https://gufaculty360.georgetown.edu/s/contact/003Hp00002ojfuNIAQ/tina-liu?searchType=Contact-Info&searchText=tina%20liu)&ensp;&ensp;&ensp;[Google Scholar](https://scholar.google.com/citations?user=ttPvXSAAAAAJ&hl=en)&ensp;&ensp;&ensp;[ORCID ](https://orcid.org/0000-0003-0316-5356)&ensp;&ensp;[ResearchGate](https://www.researchgate.net/profile/Tina-Liu-6)&ensp;&ensp;&ensp;[Twitter](https://twitter.com/TinaLiuTong)
 
 ## ACADEMIC APPOINTMENTS
 ```
-2024.4 – Present	Georgetown University Medical School – Washington, D.C., USA
-			Assistant Professor, Department of Neurology and Center for Brain Plasticity and Recovery
+2024.4 – Present	Georgetown University Medical Center – Washington, DC, USA
+			Assistant Professor, Department of Neurology
+			Director, [Visual Perception and Plasticity Lab](https://sites.google.com/georgetown.edu/vpplab)
 ```
 		
 ## EDUCATION & POSTDOCTORAL TRAINING
@@ -73,25 +74,25 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 
 
 ## Peer-reviewed articles 
-1.	Liu, T.T. (2024). Unraveling nature and nurture in cortical (re)organization. _Nature Review Neuroscience_.  [DOI: 10.1038/s41583-024-00825-x](https://www.nature.com/articles/s41583-024-00825-x)
+1.	Liu, T.T. (2024). Unraveling nature and nurture in cortical (re)organization. _Nature Review Neuroscience_. [DOI: 10.1038/s41583-024-00825-x](https://www.nature.com/articles/s41583-024-00825-x)
 
 2.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2024). Holistic processing and face expertise after pediatric resection of occipitotemporal cortex. _Neuropsychologia_, 194, 108789. [DOI: 10.1016/j.neuropsychologia.2024.108789](http://doi.org/10.1016/j.neuropsychologia.2024.108789)
    
 4.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2023). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader](https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader)
 
-5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J. C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
+5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J.C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
 6.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2023). Corticostriatal connectivity mediates the relationship between sleep and impulsivity in early adolescents. _Journal of Child Psychology and Psychiatry_. [DOI: http://doi.org/10.1111/jcpp.13843](http://doi.org/10.1111/jcpp.13843)
    
 7.	**Liu, T.T.**, Fu, J.Z., Chai, Y., Japee, S., Gang, C., Ungerleider, L.G., & Merriam, E.P. (2022). Layer-specific, retinotopically-diffuse modulation in human visual cortex in response to viewing emotionally expressive faces. _Nature Communications_, 13(1), 6302. [DOI: https://doi.org/10.1038/s41467-022-33580-7](https://doi.org/10.1038/s41467-022-33580-7). 
 Check out this news story which showcases Jason Fu, my postbac and the study's second author: [SOM Student Jason Fu, SOM Class of 2025, Published His Study in Nature Communications](https://www.nymc.edu/news-and-events/news-archives/study-identifies-pathway-that-processes-emotional-information-in-brain.php)
 
-8.	Ventura, P., **Liu, T.T.**, Cruz., F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). 
+8.	Ventura, P., **Liu, T.T.**, Cruz, F., & Pereira, A. (2022). The mechanisms supporting holistic perception of words and faces are not independent. _Memory & Cognition_, 1-16. [DOI: https://doi.org/10.3758/s13421-022-01369-0](https://doi.org/10.3758/s13421-022-01369-0). 
 Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/](https://featuredcontent.psychonomic.org/taking-it-all-in-holistic-processing-of-words-and-faces/)
 
 9.	Yang, F.N., **Liu, T.T.**, Wang, Z. (2022). Functional connectome mediates the association between sleep disturbance and mental health in preadolescence: a longitudinal mediation study. _Human Brain Mapping_, 43(6), 2041-2050. [DOI: https://doi.org/10.1002/hbm.25772](https://doi.org/10.1002/hbm.25772)
 
-10.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D. A., Alink, A., Muckli, L., Bandettini, P. A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_, 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
+10.	Chai, Y., **Liu, T.T.**, Marrett, S., Li, L., Khojandi, A., Handwerker, D.A., Alink, A., Muckli, L., Bandettini, P.A. (2021). Topographical and laminar distribution of audiovisual processing within human planum temporale. _Progress in Neurobiology_, 205, 102121. [DOI: https://doi.org/10.1016/j.pneurobio.2021.102121](https://doi.org/10.1016/j.pneurobio.2021.102121)
 
 11.	Maallo, A.M.S., Freud, E., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2020). Effects of unilateral cortical resection of the visual cortex on bilateral human white matter. _NeuroImage_, 207, 116345. [DOI: https://doi.org/10.1016/j.neuroimage.2019.116345](https://doi.org/10.1016/j.neuroimage.2019.116345)
 
@@ -132,7 +133,6 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 5. Liu, T.T. (2016, June). The developing ventral visual pathway in in patients with hemispherectomy or lobectomy. Invited talk at the Institute of Cognitive Neuroscience, East China Normal University, Shanghai, China.
 
- 
 
 ## Conference Talks
 1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Bing Li received VSS 2024 Early Career Scientist Travel Grant]**
@@ -157,15 +157,17 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Posters
-1. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, D.C.
+1. Gobo, V.E., **Liu, T.T.**, Japee, S., Merriam, E.P., Osborne, B., Bandettini, P.A., Kronemer, S.I. (submitted). Visual evoked pupil, blink, and eye movements in cortical blindness. Abstract submitted to the 2024 Annual Meeting of the Society for Neuroscience, Chicago, IL. 
+
+2. **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, November). Patients with V1 damage exhibit orientation decoding in hMT+ after visual training. Poster presented at the 2023 Annual Meeting of the Society for Neuroscience, Washington, D.C.
    
-1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+1. **Liu, T.T.**, Bachmann, H.P., Cavanaugh, M.R., Fahrenthold, B.K., Melnick, M.D., Japee, S., Huxlin, K.R., & Merriam, E.P. (2023, May). Bypassing V1: Orientation selectivity in hMT+ of cortically-blinded patients. Poster presented at the 2023 Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+2. Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, D., & Huxlin, K.R. (2023, May). Direction discrimination training recovers fine orientation perception in V1-damage fields. Poster presented at the 2023 Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
 
-3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the Annual Meeting of the Society for Neuroscience, San Diego, CA.  
+3. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, November). Emotion and Anxiety Interact to Bias Spatial Attention. Poster presented at the 2022 Annual Meeting of the Society for Neuroscience, San Diego, CA.  
 
-4. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Early Career Scientist Travel Grant]**
+4. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, May). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster presented at the 2022 Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Helena Bachmann received VSS 2022 Early Career Scientist Travel Grant]**
 
 5. Bachmann, H.P., Japee, S., Merriam, E.P., **Liu, T.T.** (2022, April). The Relationship between Emotional Valence, Anxiety, and Attentional Bias. Poster Presented at NIH Postbac Poster Day, Bethesda, MD. **[Helena Bachmann received 2022 NIH Postbac Poster Day Outstanding Poster Award]**
 
