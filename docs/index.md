@@ -7,7 +7,7 @@
 ```
 2024.4 – Present	Georgetown University Medical Center – Washington, DC, USA
 			Assistant Professor, Department of Neurology
-			Director, [Visual Perception and Plasticity Lab](https://sites.google.com/georgetown.edu/vpplab)
+			Director, Visual Perception and Plasticity Lab
 ```
 		
 ## EDUCATION & POSTDOCTORAL TRAINING
