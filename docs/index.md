@@ -6,7 +6,7 @@
 ## ACADEMIC APPOINTMENTS
 ```
 2024.4 – Present	Georgetown University Medical Center – Washington, DC, USA
-			Assistant Professor, Department of Neurology
+			Assistant Professor (Tenure Track), Department of Neurology
 			Director, Visual Perception and Plasticity Lab
 ```
 		
@@ -71,6 +71,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 4.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 5.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
+6.	
+5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (in preparation). Visually evoked pupil, blink, and eye movements in cortical blindness.![image](https://github.com/user-attachments/assets/ac6fe930-495a-465e-a36e-c1e747f13312)
 
 
 ## Peer-reviewed articles 
@@ -252,40 +254,49 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 
 ## MENTORING EXPERIENCE
 ```
+2024 Summer	Rotation Mentor, Interdisciplinary Program in Neuroscience, Georgetown University
+		Mentee: Beth Rispoli, PhD student
+
 2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
-		Mentee: Noah Steinberg, MD/PhD student
+		MD/PhD student: Noah Steinberg
 
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
-		Incoming neuroscience grad student at Princeton University, received NSF GRFP in April 2024
+		Now: Neuroscience graduate student at Princeton University 
+		2024: Recipient of the 2024 NSF Graduate Research Fellowship, Recipient of the 2024 VSS Early Career 		Scientist Travel Grant
 
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
-		Future MD student
+		2022: Winner of the 2022 VSS Graphics Competition  
 
 2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
-		Future MD/PhD student
-		
+		Now： MD/PhD student at the University of Colorado Boulder
+		2023: Recipient of the 2023 VSS Early Career Scientist Travel Grant, Recipient of the Travel award to 		attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of 		Utah
+		2022: Recipient of the 2022 NIH Postbac Poster Day Outstanding Poster Award, Recipient of the Helmsley 		Scholarship for the Cold Spring Harbor Course "Schizophrenia and Related Disorders"
+
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
-		Now clinical health psychology grad student at East Carolina University
+		Now：Clinical Health Psychology grad student at East Carolina University
+		2021: Finalist of the 2021 NIMH Three-Minute-Talk  
 
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena (Lanie) Bachmann 
-		Now neuroscience grad student at Columbia University
+		Now： Neuroscience grad student at Columbia University
+		2022: Recipient of the 2022 VSS Early Career Scientist Travel Grant, Recipient of the 2022 NIH Postbac 		Poster Day Outstanding Poster Award, Recipient of the 2022 NIMH Trainee Travel Award, Winner of the 		2022 NIMH Three-Minute-Talk 
 
 2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
-		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
+		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the 		brain)
 		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Jason Fu 
-		Now MD student at New York Medical College
+		Now： MD student at New York Medical College
  		
 2015 – 2017 	Mentor, Carnegie Mellon University 
 		Mentee: Adam Dickter 
-		Now MD student at University of Rochester Medical School
+		MD from University of Rochester School of Medicine and Dentistry (2024)
+		Now: Resident at Forbes Hospital | Allegheny Health Network, PA
 ```
 
 ## GRANT WRITING EXPERIENCE 
