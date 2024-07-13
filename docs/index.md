@@ -13,17 +13,17 @@
 ## EDUCATION & POSTDOCTORAL TRAINING
 ```
 2023.6 – 2024.3 	National Institute of Mental Health – Bethesda, MD, USA
-			Research fellow
+			Research Fellow
 			Mentor: Dr. Elisha Merriam
 
 2018.7 – 2023.6		National Institute of Mental Health – Bethesda, MD, USA
-			Postdoctoral fellow 
+			Visiting/Postdoctoral Fellow 
 			Mentors: Drs. Leslie Ungerleider & Elisha Merriam
 
 2013.8 – 2018.5 	Carnegie Mellon University – Pittsburgh, PA, USA 
 			Ph.D. in Psychology: Cognitive Neuroscience 
 			Advisor: Dr. Marlene Behrmann
-			Committee: Drs. Michael Tarr, David Plaut, & Carl Olson
+			Dissertation Committee: Drs. Michael Tarr, David Plaut, & Carl Olson
 
 2011.9 – 2013.8 	University of Hong Kong – Hong Kong, China 
 			MPhil in Psychology: Visual Cognition 
@@ -31,7 +31,7 @@
 
 2010.1 – 2010.5 	University of Illinois at Urbana-Champaign – IL, USA 
 			Student Exchange Program 
-			GPA: 4.0/4.0 
+			GPA: 4.0/4.0
 			
 2008.9 – 2011.5		University of Hong Kong – Hong Kong, China 
 			Bachelor of Social Sciences (First Class Honors) 
