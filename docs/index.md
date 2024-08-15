@@ -360,7 +360,7 @@ Ad hoc Reviewer, Cerebral Cortex
 
 Ad hoc Reviewer, Communications Biology
 
-Ad hoc Reviewer, eLife x 2
+Ad hoc Reviewer, eLife x 4
 
 Ad hoc Reviewer, F1000Research
 
