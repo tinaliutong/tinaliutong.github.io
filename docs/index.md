@@ -263,7 +263,7 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
 		Now: Neuroscience graduate student at Princeton University 
-		2024: Recipient of the 2024 NSF Graduate Research Fellowship, Recipient of the 2024 VSS Early Career 		Scientist Travel Grant
+		2024: Recipient of the 2024 NSF Graduate Research Fellowship, Recipient of the 2024 VSS Early Career Scientist Travel Grant
 
 2023 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: June Hee Kim (2021-2024, co-mentorship: 2023-2024)
@@ -272,8 +272,8 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2022 - 2024	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Elena Younhye Ock (2021-2024, co-mentorship: 2022-2024)
 		Now： MD/PhD student at the University of Colorado Boulder
-		2023: Recipient of the 2023 VSS Early Career Scientist Travel Grant, Recipient of the Travel award to 		attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of 		Utah
-		2022: Recipient of the 2022 NIH Postbac Poster Day Outstanding Poster Award, Recipient of the Helmsley 		Scholarship for the Cold Spring Harbor Course "Schizophrenia and Related Disorders"
+		2023: Recipient of the 2023 VSS Early Career Scientist Travel Grant, Recipient of the Travel award to attend the "Training in Advanced Statistics in Neuroimaging and Genetics" course at the University of Utah
+		2022: Recipient of the 2022 NIH Postbac Poster Day Outstanding Poster Award, Recipient of the Helmsley Scholarship for the Cold Spring Harbor Course "Schizophrenia and Related Disorders"
 
 2022 - 2023	Co-mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Maeve Sargeant (2020-2023, co-mentorship: 2022-2023)
@@ -283,10 +283,10 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 2021 - 2023	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Helena (Lanie) Bachmann 
 		Now： Neuroscience grad student at Columbia University
-		2022: Recipient of the 2022 VSS Early Career Scientist Travel Grant, Recipient of the 2022 NIH Postbac 		Poster Day Outstanding Poster Award, Recipient of the 2022 NIMH Trainee Travel Award, Winner of the 		2022 NIMH Three-Minute-Talk 
+		2022: Recipient of the 2022 VSS Early Career Scientist Travel Grant, Recipient of the 2022 NIH Postbac Poster Day Outstanding Poster Award, Recipient of the 2022 NIMH Trainee Travel Award, Winner of the 2022 NIMH Three-Minute-Talk 
 
 2021 – 2024	Advisor, Action Potential Advising Program, Simply Neuroscience
-		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the 		brain)
+		(an international, student-led NPO dedicated to fostering students' interdisciplinary interests in the brain)
 		Mentees: Suma Dendi, Abhay Kapoor, Michelle Nehez, Aishwarya Krishnaswamy, Deena Khan
 
 2018 – 2021	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
