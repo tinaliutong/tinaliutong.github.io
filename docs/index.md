@@ -71,8 +71,8 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 4.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
 
 5.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
-6.	
-5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (in preparation). Visually evoked pupil, blink, and eye movements in cortical blindness.![image](https://github.com/user-attachments/assets/ac6fe930-495a-465e-a36e-c1e747f13312)
+   
+5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (in preparation). Visually evoked pupil, blink, and eye movements in cortical blindness. 
 
 
 ## Peer-reviewed articles 
