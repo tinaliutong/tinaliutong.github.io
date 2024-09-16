@@ -314,26 +314,29 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 
 ## TEACHING EXPERIENCE
 ```
+Sep 2024	ICOS 7710 Cognitive Science Core Course (GU), Lead instructor: Dr. Abigail Marsh
+		Delivered a lecture/seminar on “Vision” 
+
 Fall 2017	Biological Foundations of Behavior (CMU), Course instructor: Lori Holt
-		Guest lectured ("Hemispheric differences")
+		Delivered a lecture on "hemispheric differences"
 		Assisted with dissection labs (Eye dissection & brain dissection)
 		Held office hours
 		Coordinated undergrad TAs in grading
 
 Fall 2016	Cognitive Psychology (CMU), Course instructor: Erik Thiessen
-		Guest lectured ("Face perception")
+		Delivered a lecture on "face perception"
 		Held office hours
 		Coordinated undergrad TAs in grading
 		Led recitations 
 
 Spring 2015	Social Psychology (CMU), Course instructor: Vicki Helgeson
-		Guest lectured ("Fixed vs. growth: the two basic mindsets")
+		Delivered a lecture on "fixed vs. growth: the two basic mindsets"
 		Held office hours
 		Led recitation sections
 		Graded essays and exams
 
 Fall 2015	Biological Foundations of Behavior (CMU), Course instructor: Marlene Behrmann
-		Guest lectured ("The visual system") 
+		Delivered a lecture on "the visual system" 
 		Assisted with dissection labs (Eye dissection & brain dissection)
 		Held office hours
 		Led recitations
