@@ -64,23 +64,21 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution,  ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep   
-2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (in preparation). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
+2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (under review). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
+
+5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (under review). Visually evoked pupil, blink, and eye movements in cortical blindness. 
 
 3.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
 
-4.	Cavanaugh, M.R., **Liu, T.T.**, Merriam, E.P., Duje, T., & Huxlin, K.R. (in preparation). Direction discrimination training recovers fine orientation perception in V1-damage fields.
-
 5.	Ock, E. Y., Joynes, C., **Liu, T.T.**, Merriam, E.P. (in preparation). Distinct modulation of FEF during orienting and reorienting of exogenous and endogenous attention.
    
-5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (in preparation). Visually evoked pupil, blink, and eye movements in cortical blindness. 
-
 
 ## Peer-reviewed articles 
 1.	Liu, T.T. (2024). Unraveling nature and nurture in cortical (re)organization. _Nature Review Neuroscience_. [DOI: 10.1038/s41583-024-00825-x](https://www.nature.com/articles/s41583-024-00825-x)
 
 2.	Simmons, C., Granovetter, M.C., Robert, S., **Liu, T.T.**, Patterson, C., & Behrmann, M. (2024). Holistic processing and face expertise after pediatric resection of occipitotemporal cortex. _Neuropsychologia_, 194, 108789. [DOI: 10.1016/j.neuropsychologia.2024.108789](http://doi.org/10.1016/j.neuropsychologia.2024.108789)
    
-4.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2023). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader](https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader)
+4.	Bachmann, H.P., Japee, S., Merriam, E.P.##, **Liu, T.T.**## (2024). Emotion and anxiety interact to bias spatial attention. _Emotion_. Advance online publication. [DOI: 10.1037/emo0001322](http://doi.org/10.1037/emo0001322) (##co-senior authors with equal contribution)  American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader](https://www.growkudos.com/publications/10.1037%25252Femo0001322/reader)
 
 5.	Ventura, P.#, **Liu, T.T.**#, Cruz, F., Banha, A., Domingues, M., Guerreiro, J.C., & Delgado, J. (2023). From Perugino to Picasso: holistic processing of faces in paintings. _Psychology of Aesthetics, Creativity, and the Arts_. [DOI: 10.1037/aca0000575](http://doi.org/10.1037/aca0000575) (#co-first authors with equal contribution) American Psychological Association (APA) Showcase: [https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader](https://www.growkudos.com/publications/10.1037%25252Faca0000575/reader)
 
@@ -137,6 +135,8 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Talks
+Rispoli, B., **Liu, T.T.**, Moon, K., Chatterjee, R., Zaghloul, K., & Inati, S. (2025, May). Homotopic reorganization of the visual word form area following surgical resection of connected cortex. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+
 1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Bing Li received VSS 2024 Early Career Scientist Travel Grant]**
  
 3. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
@@ -254,11 +254,13 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 
 ## MENTORING EXPERIENCE
 ```
-2024 Summer	Rotation Mentor, Interdisciplinary Program in Neuroscience, Georgetown University
-		Mentee: Beth Rispoli, PhD student
-
 2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
 		MD/PhD student: Noah Steinberg
+		MD/PhD student: Gina Choe
+		PhD student: Naama Zur
+
+2024 Summer	Rotation Mentor, Interdisciplinary Program in Neuroscience, Georgetown University
+		Mentee: Beth Rispoli, PhD student
 
 2023 - 2024 	Mentor, NIH Postbaccalaureate Intramural Research Training Award (IRTA) program
 		Mentee: Bing Li
