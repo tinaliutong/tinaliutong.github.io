@@ -64,9 +64,12 @@ Summer 2014 		Brains, Minds, Machines summer course at MBL – Woods Hole, MA, U
 (#co-first authors with equal contribution,  ##co-senior authors with equal contribution) 
 
 ## Manuscript under review or in prep   
-2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (under review). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)
+2.	**Liu, T.T.**#, Granovetter, M.C.#, Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (under revision). Microgenesis of plasticity in human visual cortex following large cortical resection. (#co-first authors with equal contribution)  [Preprint DOI: 10.1101/2024.12.08.627367](https://doi.org/10.1101/2024.12.08.627367)
 
-5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (under review). Visually evoked pupil, blink, and eye movements in cortical blindness. 
+
+5.	Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (under review). Visually evoked pupil, blink, and eye movements in cortical blindness. [Preprint DOI: 10.1101/2025.01.06.631506](https://doi.org/10.1101/2025.01.06.63150)
+   
+2.	Ventura, P., Pereira, A. Cruz., F., & Liu, T.T. (submitted). Relational processing of faces in paintings varying along a realism continuum. 
 
 3.	**Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Li, B., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (in preparation). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact.
 
@@ -135,9 +138,12 @@ Psychonomic Society Featured Content [https://featuredcontent.psychonomic.org/ta
 
 
 ## Conference Talks
-Rispoli, B., **Liu, T.T.**, Moon, K., Chatterjee, R., Zaghloul, K., & Inati, S. (2025, May). Homotopic reorganization of the visual word form area following surgical resection of connected cortex. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL.
+Kronemer, S.I., Gobo, V.E., Japee, S., Merriam, E.P., Osborne, B.J., Bandettini, P., & **Liu, T.T.** (2025, July) Visual conscious awareness and neural processing are linked to eye metrics in cerebral blindness. Talk to be presented at the Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC), Heraklion, Crete, Greece. 
 
-1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Bing Li received VSS 2024 Early Career Scientist Travel Grant]**
+Rispoli, B., **Liu, T.T.**, Moon, K., Chatterjee, R., Zaghloul, K., & Inati, S. (2025, May). Homotopic reorganization of the visual word form area following surgical resection of connected cortex. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Trainee Beth Rispoli received VSS 2025 NEI Early Career Scientist Travel Grant]**
+
+
+1. Li, B., **Liu, T.T.**, Cavanaugh, M.R., Bachmann, H.P., Fahrenthold, B.K., Japee, S., Huxlin, K.R., & Merriam, E.P. (2024, May). Patients with V1 damage exhibit increased orientation decoding in hMT+, but only if pulvinar is intact. Talk to be presented at the Annual Meeting of the Vision Sciences Society, St. Pete Beach, FL. **[Trainee Bing Li received VSS 2024 Early Career Scientist Travel Grant]**
  
 3. **Liu, T.T.**, Granovetter, M., Maallo, A.M.S., Fu, J.Z., Patterson, C., & Behrmann, M. (2022, November). Microgenesis of plasticity in human visual cortex following large cortical resection. Nanosymposium talk presented at the Annual Meeting of the Society for Neuroscience. San Diego, CA. 
 
@@ -254,6 +260,15 @@ June 2013 	Best Oral Presentation, 13th Annual Research Postgraduate Conference,
 
 ## MENTORING EXPERIENCE
 ```
+Summer 2025 	Laidlaw Scholars Faculty Mentor, Laidlaw Undergraduate Leadership and Research Scholarship Programme, Center for Research and Fellowships, Georgetown University
+		Mentee: Aashvi Bist, Sophomore in Human Science on pre-med track
+
+Summer 2025	Clinical Research Track Mentor, School of Medicine, Georgetown University
+		Mentee: Sherin Aboobucker Sidiq, MD student on the Clinical Research Scholar Track
+
+Summer 2025	Rotation Mentor, Interdisciplinary Program in Neuroscience (IPN), Georgetown University
+		Mentee: Sofia Montoya, PhD student
+
 2024 – Present 	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
 		MD/PhD student: Noah Steinberg
 		MD/PhD student: Gina Choe
@@ -380,9 +395,9 @@ Ad hoc Reviewer, Visual Cognition
 
 ## OTHER SERVICE AND CERTIFICATES
 ```
-2024 - Present	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University 
+2024 - Present	Thesis Committee Member, Interdisciplinary Program in Neuroscience, Georgetown University
 
-2024 - Present	Project Selection Committee, NexGen 7T U24 Dissemination Grant (NIH) awarded to University of California, Berkeley 
+2024 – Present	Project Selection Committee, U24 Dissemination Grant: NexGen 7T MRI scanner for mesoscale brain imaging awarded to University of California, Berkeley 
 
 2024 		QS World University Rankings Survey for Hong Kong Polytechnic University
 
